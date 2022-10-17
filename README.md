@@ -2,7 +2,7 @@
 
 ## Building an NLP tool to Improve Natural Disaster and Water Resource Management
 
-So far, the team has self-organized into the following tasks:
+So far, I have segmented the project into the following tasks:
 
 - **Task 1:** Scraping Twitter Data
 - **Task 2:** NLP modeling
