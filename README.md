@@ -20,6 +20,4 @@ Relevant resources files:
 - [Google Drive Folder](https://drive.google.com/drive/u/1/folders/1_Wboki9LkiKXP_we6sZ-i_gwX5VDHuSn) 
 - [Problem Statement](https://docs.google.com/document/d/1CnJypRkuMEyvPFSPUzsSk5AmoXD1JlzayOADOEUQqGs/edit?usp=sharing) 
 - [Project's Q&A](https://docs.google.com/document/d/1kRj7AIyhXXqAhBTzEurF9E4Kqmw2YIPawrKnTnJKs6k/edit) 
-- [Resources Library (current challenge)](https://docs.google.com/spreadsheets/d/1Bq_b3T0qr6wxoUBqur8Pk4XO_UMSvkcgPtCVqIGbUho/edit#gid=1475680077) 
-- [Resources (previous challenges)](https://docs.google.com/spreadsheets/d/1Bq_b3T0qr6wxoUBqur8Pk4XO_UMSvkcgPtCVqIGbUho/edit?usp=sharing)
 - [Literature Review](https://docs.google.com/document/d/1ifremVCEJB6cb_6wvqLkGEdIdf02In1Dr8TGK9sBp3o/edit#)
