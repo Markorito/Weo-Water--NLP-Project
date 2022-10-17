@@ -1,0 +1,10 @@
+textblob
+streamlit
+pandas 
+nltk
+newspaper3k
+pygooglenews
+pillow
+requests
+regex
+beautifulsoup4

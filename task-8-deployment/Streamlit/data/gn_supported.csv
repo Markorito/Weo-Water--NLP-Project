@@ -1,0 +1,69 @@
+,Country,Language,Language_code,Country_code,Flood_keyword,Drought_keyword
+0,Argentina,Spanish,es,AR,Inundación,Sequía
+1,Austria,German,de,AT,Flut,Dürre
+2,Bangladesh,Bangla,bn,BD,,
+3,Belgium,French,fr,BE,Inondations,Sécheresse
+4,Brazil,Portuguese,pt,BR,Inundar,Seca
+5,Bulgaria,Bulgarian,bg,BG,наводнение,Суша
+6,Chile,Spanish,es,CL,Inundación,Sequía
+7,China,Chinese,zh,CN,洪水,干旱
+8,Colombia,Spanish,es,CO,Inundación,Sequía
+9,Cuba,Spanish,es,CU,Inundación,Sequía
+10,Czech Republic,Čeština,cs,CZ,Zaplavit,Sucho
+11,Egypt,Arabic,ar,EG,فيضان,جفاف
+12,France,French,fr,FR,Inondations,Sécheresse
+13,Germany,German,de,DE,Flut,Dürre
+14,Greece,Greek,el,GR,Πλημμύρα,Ξηρασία
+15,Hungary,Magyar,hu,HU,Árvíz,Aszály
+16,Israel,Hebrew,he,IL,הצפה,בַּצוֹרֶת
+17,Italy,Italian,it,IT,Alluvione,Siccità
+18,Japan,Japanese,ja,JP,洪水,干ばつ
+19,Lebanon,Arabic,ar,LB,فيضان,جفاف
+20,Lithuania,Lietuvių,lt,LT,Potvynis,Sausra
+21,Mexico,Spanish,es,MX,Inundación,Sequía
+22,Morocco,French,fr,MA,Inondations,Sécheresse
+23,Netherlands,Dutch,nl,NL,Overstroming,Droogte
+24,Norway,Norsk,nn,NO,Oversvømmelse,Tørke
+25,Peru,Spanish,es,PE,Inundación,Sequía
+26,Poland,Polish,pl,PL,Powódź,Okres suszy
+27,Portugal,Portuguese,pt,PT,Inundar,Seca
+28,Romania,Română,ro,RO,Potop,Secetă
+29,Russia,Russian,ru,RU,Наводнение,Засуха
+30,Saudi Arabia,Arabic,ar,SA,فيضان,جفاف
+31,Senegal,French,fr,SN,Inondations,Sécheresse
+32,Serbia,Serbian,sr,RS,Поплава,Суша
+33,Slovakia,Slovenčina,sk,SK,Povodeň,Sucho
+34,Slovenia,Slovenščina,sl,SI,Poplava,Suša
+35,South Korea,Korean,ko,KR,홍수,가뭄
+36,Sweden,Swedish,sv,SE,Översvämning,Torka
+37,Switzerland,German,de,CH,Flut,Dürre
+38,Thailand,Thai,th,TH,น้ำท่วม,ภัยแล้ง
+39,Turkey,Turkish,tr,TR,Sel,Kuraklık
+40,Ukraine,Russian,ru,UA,Наводнение,Засуха
+41,United Arab Emirates,Arabic,ar,AE,فيضان,جفاف
+42,Venezuela,Spanish,es,VE,Inundación,Sequía
+43,Vietnam,Vietnamese,vi,VN,Lũ lụt,Hạn hán
+44,Australia,English,en,AU,Flood,Drought
+45,Botswana,English,en,BW,Flood,Drought
+46,Canada,English,en,CA,Flood,Drought
+47,Ethiopia,English,en,ET,Flood,Drought
+48,Ghana,English,en,GH,Flood,Drought
+49,India,English,en,IN,Flood,Drought
+50,Indonesia,English,en,ID,Flood,Drought
+51,Ireland,English,en,IE,Flood,Drought
+52,Israel,English,en,IL,Flood,Drought
+53,Kenya,English,en,KE,Flood,Drought
+54,Latvia,English,en,LV,Flood,Drought
+55,Malaysia,English,en,MY,Flood,Drought
+56,Namibia,English,en,,Flood,Drought
+57,New Zealand,English,en,NZ,Flood,Drought
+58,Nigeria,English,en,NG,Flood,Drought
+59,Pakistan,English,en,PK,Flood,Drought
+60,Philippines,English,en,PH,Flood,Drought
+61,Singapore,English,en,SG,Flood,Drought
+62,South Africa,English,en,ZA,Flood,Drought
+63,Uganda,English,en,UG,Flood,Drought
+64,United Kingdom,English,en,GB,Flood,Drought
+65,United Republic of Tanzania,English,en,TZ,Flood,Drought
+66,United States,English,en,US,Flood,Drought
+67,Zimbabwe,English,en,ZW,Flood,Drought

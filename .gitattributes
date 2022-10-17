@@ -1,2 +1,10 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+.pkl filter=lfs diff=lfs merge=lfs -text
+.npy filter=lfs diff=lfs merge=lfs -text
+.pt filter=lfs diff=lfs merge=lfs -text
+'Newspaper filter=lfs diff=lfs merge=lfs -text
+Title' filter=lfs diff=lfs merge=lfs -text
+'task-8-deployment/**' filter=lfs diff=lfs merge=lfs -text
+'task-8-deployment/*' filter=lfs diff=lfs merge=lfs -text
+'task-8-deployment/' filter=lfs diff=lfs merge=lfs -text

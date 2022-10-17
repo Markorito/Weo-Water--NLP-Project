@@ -1,0 +1,351 @@
+event_id,dataset_source,event,date,country,name_adm1,name_adm2,name_adm3,locality
+b'qz8bdKs7BUf3CpnPLkSA',desinventar,FLOOD,2016-01-01,Albania,Fier,Fierit,Fier,Qarku Fier
+b'VnwOOAzhJidBjM-x_Jji',desinventar,FLOOD,2016-01-06,Albania,Tiranë,Tiranës,Tiranë,Qarku Tiranë
+b'uc59Kcgo0NTLVAfPCi5Y',desinventar,FLOOD,2016-01-06,Albania,Lezhë,Lezhës,Zejmen,Qarku Lezhë
+b'-9o8DeG9xFjzgVtMTAwI',desinventar,FLOOD,2016-01-06,Albania,Durrës,Durrësit,Shijak,
+b'dcn4PAAyX01gyL2nnFXV',desinventar,FLOOD,2016-01-07,Albania,Tiranë,Tiranës,Tiranë,Qarku Tiranë
+b'sFueDHH2UedqZjtACVT3',desinventar,FLOOD,2016-01-07,Albania,Tiranë,Tiranës,Ndroq,Qarku Tiranë
+b'VmA3BPOcilEW3CVxeF3g',desinventar,FLOOD,2016-01-07,Albania,Elbasan,Elbasanit,Elbasan,Qarku Elbasan
+b'tiMgVWj_rEw8hAfQK4aw',desinventar,FLOOD,2016-01-07,Albania,Tiranë,Tiranës,Tiranë,Qarku Tiranë
+b'8QaX2XKqSB-aiGWlLmMx',desinventar,FLOOD,2016-01-07,Albania,Tiranë,Tiranës,Tiranë,Qarku Tiranë
+b'V0sTPFTrvJjMemh1F5Bd',desinventar,FLOOD,2016-01-08,Albania,Tiranë,Kavajës,Lekaj,Qarku Tiranë
+b'dumc1rGm4pky2zIyhuGq',desinventar,DROUGHT,2018-10-05,Angola,Cuando Cubango,Mavinga,Luengue,Samayovo
+b'baKNws2KZZOZ1zC7gH7N',desinventar,DROUGHT,2020-02-18,Angola,Cuando Cubango,Menongue,Menongue,Cuando Cubango
+b'vdHg8i5q3bBmVtjP0ojs',desinventar,FLOOD,2016-01-11,Angola,Malanje,Malanje,Malanje,"Bairros da Carreira de Tiros, Vila Matilde e Catepa"
+b'SDN0wqUygXYjbNJdHm-Q',desinventar,FLOOD,2016-01-12,Angola,Luanda,Viana,Viana,"Caop A e B, Bairro Esperança, Luanda Sul, Kapalanca, zango I"
+b'iYWwo_eWwk9xhNI1pkyi',desinventar,FLOOD,2016-01-25,Angola,Uíge,Uíge,Uíge,"Bairro Papelão, zona nº 02, bloco 1 e 2,"
+b'iMOa_CdiovzX0yVc5Pbf',desinventar,FLOOD,2016-01-26,Angola,Bié,Cuito,Cuito,Bairro Praia
+b'9dRG6vNyXBHjbJ62Sj9y',desinventar,FLOOD,2016-01-31,Angola,Cabinda,Cacongo(ex. Lândana),Cacongo,Cabinda
+b'K6Ht98ACxlE49NFYeM4K',desinventar,FLOOD,2016-02-09,Angola,Luanda,Viana,Viana,"Várias zonas afectadas no município, os centros urbanos"
+b'bRX6N6OPj0yFMyuOwxZw',desinventar,FLOOD,2016-02-09,Angola,Luanda,Luanda,Ingombota,Maior incidência nos distritos da Ingombota e Samba
+b'Sa_Zq9tN_bAPrQKDeB33',desinventar,FLOOD,2016-02-10,Angola,Luanda,Cazenga,Cazenga,Toda extensão do município
+b'JySiujt_eYfaswaCQ01g',desinventar,FLOOD,2016-02-17,Angola,Luanda,Viana,Viana,"Vila nova, vila sede, kapalanga, Viana II"
+b'08WntYEM7UlX1idjUxG_',desinventar,FLOOD,2016-02-21,Angola,Bié,Cunhinga (Vouga),Cunhinga,Sede do Município e bairros adjacentes
+b'RiZvpJT74hglHhhzo8fx',desinventar,FLOOD,2016-02-12,Barbados,Saint Philip,,,Duncans Main Road
+b'CqIg8s_zXCtxLECzQagf',desinventar,FLOOD,2016-07-15,Barbados,Saint Michael,,,President Kennedy Drive
+b'OvOzMAh1ku76NSmO0a-T',desinventar,FLOOD,2016-09-28,Barbados,Saint Michael,,,Hindsbury Road; Hall Road; Station Hill
+b'Bv7yPKBXJ1nxeVTz5eds',desinventar,FLOOD,2016-11-29,Barbados,Saint Philip,,,Woodbourne Park
+b'D1BWT9TBbIrrAQa7OEeH',desinventar,FLOOD,2016-11-29,Barbados,Saint Michael,,,The Belle; Kensington New Road
+b'8raDWdJmQnDAE-FgyUc3',desinventar,FLOOD,2016-11-29,Barbados,Saint Thomas,,,5th Avenue Bagatelle
+b'sQPSwDslTHixSTOPWzz-',desinventar,FLOOD,2016-11-29,Barbados,Saint James,,,Crystal Heights
+b'qfgL9Q2TYKU0e2fa-tvX',desinventar,FLOOD,2016-11-29,Barbados,Saint James,,,5th Avenue Bagatellle
+b'L2A02KrA9cMOfGH_0ae8',desinventar,FLOOD,2017-08-18,Barbados,Saint Peter,,,Gills Terrace
+b'PMmYjFjQE57zKoxngJwP',desinventar,FLOOD,2017-10-21,Barbados,Saint James,,,Crystal Heights
+b'buqyEftPTSPC8i3rLBAm',desinventar,DROUGHT,2016-01-08,Cambodia,Kampong Cham,Srei Santhor,Baray,
+b'ubQT_Z9daXRUkYMuo1c6',desinventar,DROUGHT,2016-06-06,Cambodia,Stung Treng,Thala Barivat,Anlong Phe,
+b'eMPzent3oaQggJyiC1uy',desinventar,DROUGHT,2016-06-07,Cambodia,Kampot,Krong Kampot,Kampong Kandal,"5 Districts, Krong Kampot, Tuck Chhou, K Trach, Sruo Chou .."
+b'Mueqh2Fzg8-Vleech2jU',desinventar,DROUGHT,2016-06-08,Cambodia,Kampot,Tuek Chhou,Boeng Tuk,6 Districts
+b'mljRZrnxKM3CBCakhyZ4',desinventar,DROUGHT,2016-06-09,Cambodia,Battambang,Thma Koul,,
+b'QLUqkTNJbFpcnpWbzvkJ',desinventar,DROUGHT,2016-10-15,Cambodia,Takeo,Dang Tong,Totung,
+b'ZAud_JqBjbZuTcgA3BlP',desinventar,DROUGHT,2017-05-04,Cambodia,Kandal,Lvea Aem,Sarikakaev,
+b'204V0nLECsoqyvD3kh98',desinventar,DROUGHT,2018-07-15,Cambodia,Prey Veng,Ba Phnum,,
+b'4wUWrycH107r7E-0XtQX',desinventar,DROUGHT,2018-08-01,Cambodia,Battambang,Kamrieng,Svay Chek,
+b'o_Scfb9mE6BeOo2sJHCP',desinventar,DROUGHT,2019-09-03,Cambodia,Siem Reap,Kralanh,,
+b'Uq6_nHYSEEfCa3o_HgzG',desinventar,FLOOD,2016-10-15,Cambodia,Kampong Cham,Tboung Khmum,,
+b'92knbWFJUz3Tb3xwG1YE',desinventar,FLOOD,2017-08-31,Cambodia,កំពង់ចាម,,,6 Distict
+b'kSO-To_2dslVx8N3YWd7',desinventar,FLOOD,2017-08-31,Cambodia,Kratie,Tboung Khmum,,6 Distict
+b'loe2qMb-a3HCbPM40Onm',desinventar,FLOOD,2018-08-29,Cambodia,Kampong Chhnang,Kampong Leaeng,Samraong Saen,ភូមិសំរោងសែន ប៉ប្រក
+b'CN9BPr72TZJU56modD8e',desinventar,FLOOD,2018-08-29,Cambodia,Kampong Chhnang,Kampong Leaeng,Pralay Meas,ភូមិកោះឫស្សី
+b'jVvN-kGzDxZ7MQgZfPGL',desinventar,FLOOD,2018-08-29,Cambodia,Kampong Chhnang,Rolea B'ier,Kouk Banteay,ភូមិកន្លែងភេ
+b'yig3bi5LOdqpjAKjWb6_',desinventar,FLOOD,2018-08-29,Cambodia,Kampong Chhnang,Rolea B'ier,Tuek Hout,ភូមិព្រែកសាលា
+b'Y1a7dlKxMxLPrSrpbmcu',desinventar,FLOOD,2018-08-29,Cambodia,Kampong Chhnang,Kampong Leaeng,Phlov Tuk,ភូមិពាមខ្នង ថ្នល់ឈើទាល ស្លត
+b'09K2HZlgxgvx0yXGJ88W',desinventar,FLOOD,2019-06-01,Cambodia,Kandal,Lvea Aem,,
+b'LlJG64KZb_PvtURV_wEh',desinventar,FLOOD,2019-09-01,Cambodia,Battambang,Aek Phnum,,
+b'cEk7XKRu_004bJnQbmPH',desinventar,DROUGHT,2016-01-21,Colombia,Bolívar,Arboleda,,
+b'UNyVHfqJXJwtKpF6s1YA',desinventar,DROUGHT,2016-01-25,Colombia,Huila,Macaravita,,
+b'rWbc1C2k8ClSTIUpaR1J',desinventar,DROUGHT,2016-01-27,Colombia,Sucre,,,
+b'CAxEvOdFemWq5PEdZwvl',desinventar,DROUGHT,2016-01-28,Colombia,Boyacá,Saboyá,,
+b'DftgUDyrsj5aC3qY91Mf',desinventar,DROUGHT,2016-01-28,Colombia,Boyacá,Caldas,,
+b'Y9Z2fzFPvc-J075qLUEx',desinventar,DROUGHT,2016-02-05,Colombia,Caldas,,,
+b'ACl-tEhrs362yYmJKJhF',desinventar,DROUGHT,2016-02-16,Colombia,Atlántico,Santa Marta,,
+b'QnkvpJOlPvOUAjGu-cFQ',desinventar,DROUGHT,2016-02-17,Colombia,Santander,San Gil,,CUCHARO; GUARIGUA ALTO Y BAJO; LA FLORA; MONTECITOS ALTO Y B
+b'wCZGJ2oymE9ZGojq1bRx',desinventar,DROUGHT,2016-02-23,Colombia,Guaviare,,,
+b'z3eEgkbVE_oBLtCLzNpv',desinventar,DROUGHT,2016-02-28,Colombia,Córdoba,San Bernardo del Viento,,
+b'_Jpy5TsgIkt7J1z22OqX',desinventar,FLOOD,2016-01-02,Colombia,Nariño,San Andrés de Tumaco,,CORREGIMIENTO DE LA ESPRIELLA Y LAS VEREDAS VUELTA DE VILLAR
+b'T3JQd_SfTbNZ9H9zXFHn',desinventar,FLOOD,2016-01-05,Colombia,Cundinamarca,San Francisco,,
+b'VtHs86vWYVyqE0oa3QqK',desinventar,FLOOD,2016-01-25,Colombia,Nariño,Roberto Payán,,VEREDA LA CONQUISTA; EL PEÑÓN; SANDE; WILDE WUACUCO; EL NEGR
+b'b0kJCRptKVteH4m7kg6z',desinventar,FLOOD,2016-01-30,Colombia,Nariño,Belén,,BARRIO LOS PINOS DEL NORTE;
+b'cDdyTN6Adqy4XuH2w9aQ',desinventar,FLOOD,2016-02-20,Colombia,Quindio,Montenegro,,
+b'6MnkEcvPbLQ1609gRZxS',desinventar,FLOOD,2016-02-24,Colombia,Cundinamarca,Soacha,,
+b'QlCHA0a8VTn1Pq74OIG1',desinventar,FLOOD,2016-03-09,Colombia,Santander,Bucaramanga,,
+b'LeAz47S4g3i24hHelv3U',desinventar,FLOOD,2016-03-10,Colombia,Boyacá,Paipa,,
+b'e69PDvJ5TQAnt8JdPwwh',desinventar,FLOOD,2016-03-12,Colombia,Cundinamarca,Tocancipá,,
+b'74KOYi54dYiERmLnAfre',desinventar,FLOOD,2016-03-27,Colombia,Cundinamarca,Tabio,,
+b'BJTxA48eTBeTMaivnOv2',desinventar,DROUGHT,2019-03-01,Costa Rica,LIMON,POCOCI,RITA,"Ticabán, La Rita Centro"
+b'kMIu40zI22yBlLgkxzAR',desinventar,FLOOD,2016-02-13,Costa Rica,LIMON,TALAMANCA,SIXAOLA,Daytino
+b'tlGKdRjWl5KueNVVwUf7',desinventar,FLOOD,2016-04-20,Costa Rica,SAN JOSE,SANTA ANA,PIEDADES,Sector de Piedades
+b'RETm-x1qsugSdyn7B5l8',desinventar,FLOOD,2016-04-27,Costa Rica,ALAJUELA,ZARCERO,ZARCERO,
+b'jOHzpV_ldsBpQQBI6voc',desinventar,FLOOD,2016-05-03,Costa Rica,SAN JOSE,SAN JOSE,PAVAS,Residencial  del  Oeste.
+b'bLfKLs7OiQf1nOXyblpD',desinventar,FLOOD,2016-05-03,Costa Rica,PUNTARENAS,OSA,PALMAR,Palmar Norte
+b'2qicfzchlw2Ph4JDy1uZ',desinventar,FLOOD,2016-05-07,Costa Rica,PUNTARENAS,GARABITO,JACO,"Las Parcelas, Herradura"
+b'GcfXRQPbscythY2RyB0B',desinventar,FLOOD,2016-06-01,Costa Rica,SAN JOSE,SAN JOSE,URUCA,Barrio Corazón de Jesús.
+b'g_SbgEDC7nQdvfqueRiW',desinventar,FLOOD,2016-06-05,Costa Rica,SAN JOSE,SAN JOSE,SAN SEBASTIAN,Paso Ancho puente límite entre Santa Rosa y Loma Linda de De
+b'_r3mbTJNISv61_unMXla',desinventar,FLOOD,2016-06-10,Costa Rica,SAN JOSE,SAN JOSE,HATILLO,"Barrio Aserrines, Margen derecha del Río María Aguilar, Hati"
+b'Hv7M7GHdBQBco2cfFA4x',desinventar,FLOOD,2016-06-10,Costa Rica,SAN JOSE,CURRIDABAT,GRANADILLA,Barrio Las Luisas
+b'sTnLtOC-AkZaKnmMV-Kc',desinventar,FLOOD,2016-01-01,Ecuador,SANTO DOMINGO DE LOS TSACHILAS,SANTO DOMINGO,ABRAHAM CALAZACÓN,Via a Chone Km 29 Recinto Las Delicias
+b'cB5aYDGf9zv9-_dvpNTU',desinventar,FLOOD,2016-01-02,Ecuador,GALAPAGOS,SANTA CRUZ,BELLAVISTA,Ciudadela Garden
+b'5g4d-lkZTrSzJJO2NiSr',desinventar,FLOOD,2016-01-04,Ecuador,PICHINCHA,PUERTO QUITO,PUERTO QUITO,Rio Zabalo y Moja Rita
+b'tZkfBaBFAv-dbEl7JhBH',desinventar,FLOOD,2016-01-04,Ecuador,GALAPAGOS,SAN CRISTOBAL,EL PROGRESO,Via El Progreso - Cerro Verde
+b'pRwxwmXkl9Ge_4LzSdg9',desinventar,FLOOD,2016-01-04,Ecuador,GALAPAGOS,SANTA CRUZ,SANTA ROSA,Sitio de control del Parque Nacional Galapagos
+b'3XTip2ZNASq9sbs0F5pA',desinventar,FLOOD,2016-01-04,Ecuador,GALAPAGOS,SANTA CRUZ,BELLAVISTA,Via Baltra
+b'gNKOQXlWuplqQjcbQKaj',desinventar,FLOOD,2016-01-04,Ecuador,EL ORO,SANTA ROSA,BELLAMARIA,Biron
+b'yK5pr-YmWoA9SsfZWS_z',desinventar,FLOOD,2016-01-06,Ecuador,SANTO DOMINGO DE LOS TSACHILAS,SANTO DOMINGO,SANTO DOMINGO DE LOS COLORADOS,Via a Aloag Santo Domingo km 88 Piso Tanti
+b'sLja1f5L4vYovZUcFMuS',desinventar,FLOOD,2016-01-06,Ecuador,COTOPAXI,SAQUISILI,SAQUISILI,Barrio Miraflores
+b'suGDvV-Dcp9pVvz26MJX',desinventar,FLOOD,2016-01-06,Ecuador,ORELLANA,ORELLANA,PTO. FCO. DE ORELLANA (EL COCA,Varios Sectores. (Escuelas Presidente Tamayo 24 de Marzo y M
+b'EA78JFi1TdqafzbAicbN',desinventar,FLOOD,2021-01-27,Egypt,,,,
+b'LXLPqDxFlxVCJ4_qpZBd',desinventar,FLOOD,2017-01-28,Equatorial Guinea,Centro Sur,,,Evinayong
+b'YTM7UbqQ_AH_qooVp5yq',desinventar,FLOOD,2018-10-22,Equatorial Guinea,Litoral,,,"Barrio Andjeñ, Bata"
+b'zX85_cXOzXHxdYDFnaFS',desinventar,FLOOD,2019-04-09,Equatorial Guinea,Litoral,,,"Barrio Nvamguele, Bata"
+b'60mqgOjm9d0L59MAZuYk',desinventar,FLOOD,2019-04-11,Equatorial Guinea,Bioko Norte,,,"Barrio La Paz, Malabo"
+b'Tgeo5nP63aAC8DUoeueF',desinventar,FLOOD,2019-04-16,Equatorial Guinea,Litoral,,,"Barrio Nvamguele, Bata"
+b'ufZDYa5bTH3lTspXGo14',desinventar,FLOOD,2019-09-04,Eswatini,Hhohho,Madlangempisi,,
+b'fA4VjbCjIaL_gjT9zOrl',desinventar,DROUGHT,2018-05-12,Ethiopia,Somali,Gode,Mustahil,
+b'n-aKEKA2dztbPUd8pW9c',desinventar,DROUGHT,2019-04-09,Ethiopia,Addis Ababa,Zone 2,Gofa camp,
+b'tYcILc6QINQjX_KRkZ7G',desinventar,FLOOD,2018-05-12,Ethiopia,Somali,,,
+b'pu3D3X-ojzEXqfkUgShr',desinventar,FLOOD,2018-05-12,Ethiopia,Somali,,,
+b'qT5MzuAD1wYBlCt8IMue',desinventar,FLOOD,2018-05-12,Ethiopia,Oromiya,,,N/a
+b'Lt1LWGU7YwdwqaKCJYpC',desinventar,FLOOD,2018-05-12,Ethiopia,Somali,,,somalia region
+b'JjLOo1IYdPdI5G73ZmGs',desinventar,FLOOD,2018-05-12,Ethiopia,Somali,,,
+b'xYMytOHofh5w9BcEO-vB',desinventar,FLOOD,2018-05-12,Ethiopia,Somali,,,
+b'qpTnMYn-wPovKayR_CJa',desinventar,FLOOD,2018-05-12,Ethiopia,Somali,Gode,Mustahil,
+b'xKfjHguzm6FIJtAt5k4L',desinventar,FLOOD,2018-04-02,Gambia,Central River Region,Upper Saloum,Njaw,
+b'hOyIGrY67djnXzl8AwzO',desinventar,FLOOD,2018-04-02,Gambia,Central River Region,Lower Fuladu West,Brikamaba,
+b'dTYtEyAU6RuwGUrI1Bp7',desinventar,FLOOD,2018-04-02,Gambia,Central River Region,Lower Saloum,Kaur,
+b'uC3m3OwJsN8VSsfnRdEj',desinventar,FLOOD,2018-04-03,Gambia,North Bank Region,Illiasa,No Kunda,
+b'8EpTMZNTT3NtQXU_YFI1',desinventar,FLOOD,2018-04-03,Gambia,North Bank Region,Upper Niumi,Prince,
+b'EgLHCEIpBFEJ99gZO3Sm',desinventar,FLOOD,2018-04-03,Gambia,North Bank Region,Lower Niumi,Essau,
+b'BTVjKUb4OMmVxHcxwVeL',desinventar,FLOOD,2018-04-03,Gambia,North Bank Region,Upper Badibu,Farafenni,
+b'3TI-mC3HMIIUqqhcFJus',desinventar,FLOOD,2018-04-03,Gambia,North Bank Region,Sabach - Sanjal,Sabach,
+b'l2N2iG1djoCqHMJ3mcfi',desinventar,FLOOD,2018-04-03,Gambia,North Bank Region,Upper Badibu,Illiasa,
+b'Qpa1uYZX9KySdtp9HnlD',desinventar,FLOOD,2018-04-03,Gambia,North Bank Region,Upper Niumi,Pakau,
+b'LMGjIbOSP1fuzlIFYxdQ',desinventar,DROUGHT,2017-04-17,Ghana,ASHANTI,BEKWAI MUNICIPAL,,A.M.E. Zion Adjamesu
+b'9VcMurgFGssY0cNUvy5z',desinventar,DROUGHT,2019-05-15,Ghana,NORTHERN,CHEREPONI,,Wiae
+b'gd8IbwukMNoUDv3vW8yq',desinventar,DROUGHT,2019-05-19,Ghana,NORTHERN,TATALE/SANGULI,,Tasando
+b'c8l7ZORGikrCdnCRBtXy',desinventar,DROUGHT,2019-07-12,Ghana,NORTHERN,BUNKPURUGU YONYO,,Binkura
+b'kIS2wM7Y4yYGDQBINavF',desinventar,DROUGHT,2019-07-14,Ghana,NORTHERN,CHEREPONI,,Kpani
+b'giWu4xubXYEHzGElt-wx',desinventar,DROUGHT,2019-07-16,Ghana,NORTHERN,BUNKPURUGU YONYO,,Tinpaat
+b'-21745kL2W2srbmhQkBm',desinventar,DROUGHT,2019-07-20,Ghana,BRONG AHAFO,SUNYANI MUNICIPAL,,
+b'qJ-dlYnY_CtpkZgd2Hwy',desinventar,DROUGHT,2019-07-23,Ghana,NORTHERN,CHEREPONI,,Yorgu
+b'uwY_V_ev5gzJ3TxoA3t0',desinventar,DROUGHT,2019-07-24,Ghana,NORTHERN,BUNKPURUGU YONYO,,Yunyoo
+b'DnL4I4Qeiflf2t36Oq_G',desinventar,DROUGHT,2019-07-26,Ghana,NORTHERN,TATALE/SANGULI,,Dabolto
+b'SOrQr2SG17Ah_ZczpyJL',desinventar,FLOOD,2016-06-09,Ghana,GREATER ACCRA,ACCRA METROPOLIS,,ASYLUM DOWN
+b'HmElQxD_cLfZUz6QbNDK',desinventar,FLOOD,2016-06-09,Ghana,GREATER ACCRA,ACCRA METROPOLIS,,ADABRAKA
+b'y9WcMHGBYCne6pBwUy_H',desinventar,FLOOD,2016-06-09,Ghana,GREATER ACCRA,ACCRA METROPOLIS,,SAHARA
+b'txtyU3NCImn2qB9qNBu9',desinventar,FLOOD,2016-06-09,Ghana,GREATER ACCRA,ACCRA METROPOLIS,,ODAWNA
+b'GBRZRksyBKD_YrD2esVz',desinventar,FLOOD,2016-06-09,Ghana,GREATER ACCRA,ACCRA METROPOLIS,,OSU DOKU
+b'35_DAWmeYSRSyDavxml4',desinventar,FLOOD,2017-01-12,Ghana,BRONG AHAFO,ATEBUBU AMANTIN,,Asantebo
+b'GgWPG9iqjLaBxVKJvvin',desinventar,FLOOD,2017-01-14,Ghana,BRONG AHAFO,ATEBUBU AMANTIN,,Sanwakyi
+b'kqp9YUraBfTpREyyRYbp',desinventar,FLOOD,2017-01-17,Ghana,BRONG AHAFO,ATEBUBU AMANTIN,,Zongo Jato
+b'l8P1W-K3M9UUm1iutX_z',desinventar,FLOOD,2017-01-19,Ghana,BRONG AHAFO,ATEBUBU AMANTIN,,Atebubu
+b'fiN-rQMKhtJkl-uYvGCt',desinventar,FLOOD,2017-01-24,Ghana,BRONG AHAFO,ATEBUBU AMANTIN,,Patruua
+b'yijES9I9IbW4Z8v58aud',desinventar,DROUGHT,2017-07-10,Indonesia,DI YOGYAKARTA,GUNUNGKIDUL,,
+b'-GKmBanfqnQot_nB2xWy',desinventar,DROUGHT,2017-07-20,Indonesia,NUSA TENGGARA BARAT,LOMBOK BARAT,,
+b'E80cPRyV8XIvWXvrlZjG',desinventar,DROUGHT,2017-07-26,Indonesia,JAWA TENGAH,CILACAP,,
+b'Mo_4s7TaZ4oXBHdrorgL',desinventar,DROUGHT,2017-08-01,Indonesia,NUSA TENGGARA BARAT,SUMBAWA BARAT,,
+b'TTt777fr0xNkVP6IEAnc',desinventar,DROUGHT,2017-08-01,Indonesia,NUSA TENGGARA BARAT,LOMBOK UTARA,,
+b'ZeEYgdUzJ-W5dCOcffLz',desinventar,DROUGHT,2017-08-03,Indonesia,NUSA TENGGARA BARAT,LOMBOK TENGAH,,
+b'YQWxQnKw6NbGAdKRN7Ye',desinventar,DROUGHT,2017-08-07,Indonesia,NUSA TENGGARA BARAT,KOTA BIMA,,
+b'AlBWbZNxW1vfZqr6umGo',desinventar,DROUGHT,2017-08-18,Indonesia,NUSA TENGGARA BARAT,LOMBOK TIMUR,,
+b'6fvXSsge2F2Y49m2HDwp',desinventar,DROUGHT,2017-08-21,Indonesia,NUSA TENGGARA BARAT,SUMBAWA,,
+b'tD4R1oOQKGbYLl4GX0Bo',desinventar,DROUGHT,2017-08-26,Indonesia,JAWA BARAT,BEKASI,,
+b'R5TzBy8LOeusCwUZG45u',desinventar,FLOOD,2017-08-15,Jamaica,St. Ann,,,
+b'ZzWJx7rLZH1keOvdobkj',desinventar,FLOOD,2017-08-15,Jamaica,Clarendon,,,
+b'wfQMsGXO55krSWrZPa9Z',desinventar,FLOOD,2017-08-15,Jamaica,St. Catherine,,,
+b'0j_1B29BGOpTzoTvR2Bl',desinventar,FLOOD,2018-03-08,Jamaica,Hanover,,,
+b'eWbmj9kRFUT0kdPMIEhK',desinventar,FLOOD,2018-03-08,Jamaica,Manchester,,,
+b'Jj0m-hBKE1mHvWyoapTH',desinventar,FLOOD,2018-03-08,Jamaica,Clarendon,,,
+b'ZmcQHVu555fhftodUEQH',desinventar,FLOOD,2018-08-03,Jamaica,Kingston,,,
+b'IjjI6QiB0k-Kens5XTpb',desinventar,FLOOD,2018-01-30,Jordan,Jarash,Jarash,,منطقة وسط جرش
+b'8S1vr6-_1s-TfMsCKHRI',desinventar,FLOOD,2018-02-17,Jordan,Al Karak,Al Aghwar Al Janubiy,,alsafi الصافي
+b'N7dptRWmefD4ZyXUFtHG',desinventar,FLOOD,2018-04-25,Jordan,Al Karak,Qasabat Al Karak,,sael alnaqeh سيل النقع
+b'02V6np2BXp-typY2gH8P',desinventar,FLOOD,2018-10-25,Jordan,Al Balqa,,,dead sea البحر الميت
+b'3WaSeHSaSw9fPmzD3FBU',desinventar,FLOOD,2019-04-12,Jordan,Irbid,Al Koura,,منطقد جديتا
+b'LCsEI6WOtWd4VAzqQQe4',desinventar,FLOOD,2019-07-09,Jordan,Jarash,Jarash,,طريق جرش القديمة
+b'531_vfB-Fhzu8KNFVmyL',desinventar,FLOOD,2021-03-25,Jordan,,,,
+b'ZVpumVXEA1m9K_ojcx6I',desinventar,DROUGHT,2020-04-02,Kenya,NAROK,,,Eneralai
+b'6_D7ct-FUVaY6v2H01HD',desinventar,DROUGHT,2020-04-06,Kenya,NAROK,,,Ekiwanja area
+b'o4KNYpHReRZoHzEGbwzW',desinventar,DROUGHT,2020-04-06,Kenya,HOMABAY,,,Itajo village
+b'QJPQnjDJgHiO_tkrR0A5',desinventar,DROUGHT,2020-12-04,Kenya,MIGORI,,,Radienya area
+b'TfhcjtNORVVw5cUwu3jJ',desinventar,FLOOD,2016-01-18,Kenya,TANA-RIVER,,,
+b't7iPdJYtiZOEmwpsMv1j',desinventar,FLOOD,2016-03-17,Kenya,KEIYO-MARAKWET,,,Kapsowar Anin and Aror
+b'z6qjRyq48elDTB-DMcgV',desinventar,FLOOD,2016-03-22,Kenya,NAROK,,,Narok
+b'zQLwlNdh77ZkfrTs2zyf',desinventar,FLOOD,2016-05-18,Kenya,MIGORI,,,migori
+b'6kiHxqndQGxwLQP3EnFp',desinventar,FLOOD,2016-06-17,Kenya,NAIROBI,,,Kamiti Prison
+b'jCbJ26kuhJxZ6SFfwbPl',desinventar,FLOOD,2020-02-07,Kenya,,,,Nairobi-Mombasa rd
+b'Lcp7wwogySmc9HikGj5Y',desinventar,FLOOD,2020-03-05,Kenya,KISUMU,,,Ugwe sub-location
+b'BQBzJMF6KEyMXLSHIpIH',desinventar,FLOOD,2020-04-27,Kenya,SIAYA,,,Karamogi B and Gedra village
+b'XBiJAMe-hO2KEXknXpRK',desinventar,FLOOD,2020-05-02,Kenya,BUSIA,,,Amoni location
+b'm1T9hdm7hEm5HDkJiAGD',desinventar,FLOOD,2020-12-01,Kenya,NAROK,,,Emarti location
+b'qkGSHLcr6fYIViWl_N_P',desinventar,FLOOD,2016-06-29,Liberia,Margibi,,,
+b'X4_m61LLBID3ZTkt7M6s',desinventar,FLOOD,2016-02-02,Madagascar,ALAOTRA MANGORO,AMPARAFARAVOLA,,
+b'Zto0gHCAhS9_KtkuNV66',desinventar,FLOOD,2016-02-02,Madagascar,BOENY,MAHAJANGA II,,
+b'MHTjbVP471L4SEirfphc',desinventar,FLOOD,2016-02-02,Madagascar,BOENY,AMBATO BOENI,,
+b'WjqrIvtsk0BH_w18X7pI',desinventar,FLOOD,2016-02-02,Madagascar,SOFIA,MAMPIKONY,,
+b'ActEWtgPJleKnR0SnHVG',desinventar,FLOOD,2016-02-02,Madagascar,BETSIBOKA,MAEVATANANA,,
+b'xaIvhAiorfLki9cF85nS',desinventar,FLOOD,2019-05-26,Malawi,Central,Dowa,SC Mkukula,
+b'nTqKfZQpPp9ZlqdjxF6B',desinventar,FLOOD,2019-07-16,Malawi,,,,
+b'JIE9hxazSqZJGwyGyZxr',desinventar,FLOOD,2016-05-21,Montenegro,PLJEVLJA,,,"Sevari, Brvenica"
+b'_Vp5TgRihDMBPhKK2Uqd',desinventar,FLOOD,2016-11-07,Montenegro,ANDRIJEVICA,,,"Tresnjevo, Slatina, Gornje Luge"
+b'6rPwXtrO_6ylXMPJXxLZ',desinventar,FLOOD,2016-11-08,Montenegro,PLAV,,,"Brezovice, Murino, Malo selo"
+b'vjvP6Ye12JzceWfqsuBS',desinventar,FLOOD,2016-11-08,Montenegro,PETNJICA,,,"Lijesnica, Lagator"
+b'5XRsckc4SbyvkODurqrw',desinventar,FLOOD,2018-02-20,Montenegro,PLAV,,,Zamacka bb
+b'pz5kGZme7WZw_VeSEbt1',desinventar,FLOOD,2018-03-15,Montenegro,TUZI,,,"Vranj, Sukuruc"
+b'8KV3KXbaCRleu9WprD9R',desinventar,FLOOD,2018-03-15,Montenegro,GLAVNI GRAD PODGORICA,,,Podgorica
+b'Hekdubi5-5Wdz_nKMgMD',desinventar,FLOOD,2018-03-16,Montenegro,KOLAŠIN,,,Smailagica polje
+b'Xutjss0nGyjgoIpdPdtT',desinventar,FLOOD,2018-04-05,Montenegro,GLAVNI GRAD PODGORICA,,,Golubovci
+b'bPgU5UZX4HeQt6x41F2r',desinventar,FLOOD,2018-11-22,Montenegro,HERCEG-NOVI,,,"Zelenika, Meljine"
+b'C1Ky7K2MpIze7s8XJZO2',desinventar,FLOOD,2019-09-08,Mozambique,,,,
+b'pKtw5GD3Tkfz8CrUigSs',desinventar,FLOOD,2019-09-10,Mozambique,,,,
+b'V6JYvubYKnhFUTpEBM_2',desinventar,FLOOD,2019-09-11,Mozambique,CABO DELGADO,MACOMIA,,
+b'Yr2UZ6GarItNbOkWXjQv',desinventar,FLOOD,2019-09-11,Mozambique,CABO DELGADO,MACOMIA,MACOMIA,
+b'SAiUxsf6GGbgF6KcYCOn',desinventar,FLOOD,2019-09-11,Mozambique,,,,
+b'mEY90-Dfi0rCtor1IJJK',desinventar,FLOOD,2019-09-11,Mozambique,CABO DELGADO,MACOMIA,,
+b'1ju1tHDv8Y1u2FCS767d',desinventar,FLOOD,2019-09-11,Mozambique,ZAMBEZIA,,,
+b'RqcBpTabrIBjf8xj-195',desinventar,FLOOD,2019-09-11,Mozambique,,,,
+b'VuohA_74vdpVMenCXpL6',desinventar,FLOOD,2019-09-11,Mozambique,,,,
+b'-gCSixWy-2vL2FZHVJ8m',desinventar,FLOOD,2019-09-11,Mozambique,CABO DELGADO,CIDADE DE PEMBA,,
+b'auJM-qrgyEUBEXPzbdhR',desinventar,DROUGHT,2016-02-26,Myanmar,Kachin State,Myitkyina,Myitkyina,
+b'K9krZy_wI3WWWLlD5bVv',desinventar,DROUGHT,2019-04-13,Myanmar,Sagaing Region,Monywa,Budalin,ဘုတလင်မြို့နယ်၊ ဇီးတော်ကျေးရွာ
+b'Dwe32fQ9XzfB0PMRdE9p',desinventar,DROUGHT,2019-06-10,Myanmar,Rakhine State,Thandwe,Thandwe,သံတွဲမြို့နယ်၊ ကျေးရွာ (၁၀) ရွာ
+b'QMXzguw86g68z_YLoc-i',desinventar,FLOOD,2016-01-21,Myanmar,Yangon Region,,,
+b'qZ0wDfoU-1rA8c6JV8Y2',desinventar,FLOOD,2016-01-25,Myanmar,Kachin State,Mohnyin,Hpakant,"saemu, mamawe (ဆိပ္မူ၊ မမုံ)"
+b'_jp1zpkrx2_W3Juc60mA',desinventar,FLOOD,2016-02-13,Myanmar,Tanintharyi Region,Kawthoung,Bokpyin,Mile 132/3-4
+b'rha2WCUNAoluVbnIuzBk',desinventar,FLOOD,2016-04-22,Myanmar,Kachin State,Myitkyina,Myitkyina,Hsinbo
+b'FDzoWE2Os0jf-IOL8Yqe',desinventar,FLOOD,2016-04-23,Myanmar,Kachin State,Bhamo,Bhamo,
+b'ywupots1ilkmDgXgmBGI',desinventar,FLOOD,2016-04-23,Myanmar,Kachin State,Bhamo,Shwegu,
+b'D0nR1Y_SFGaMNshJQNON',desinventar,FLOOD,2016-04-24,Myanmar,Kachin State,Myitkyina,Chipwi,
+b'ZYYXAFjxOeus-sEHQ_XG',desinventar,FLOOD,2016-04-24,Myanmar,Kachin State,Myitkyina,Tsawlaw,
+b'ozxRNI2-awVh_7l_mxEj',desinventar,FLOOD,2016-04-24,Myanmar,Kachin State,Bhamo,Bhamo,Bhamo/Thapyakaung(လာခ်င္/လကင္)
+b'2ToQmvCTyFHlXKe2_ODQ',desinventar,FLOOD,2016-04-24,Myanmar,Kachin State,Myitkyina,Tsawlaw,Tsawlaw/Larchin(လာခ်င္၊လကင္)
+b'50KljY5G6HFdmfEmNLb-',desinventar,DROUGHT,2019-03-30,Niger,ZINDER,DAMAGARAM TAKAYA,DAMAGARAM-T,KATSINAWA 1 ET 2
+b'Xhl4faB71oxCp2eDHUL1',desinventar,DROUGHT,2019-03-30,Niger,ZINDER,DUNGASS,GOUCHI,MALAN KALOU
+b'k9u9M7mHGVz5VzHBFg0U',desinventar,DROUGHT,2019-03-30,Niger,ZINDER,GOURE,KELLÉ,GUINDAWA
+b'gZIT25c08Slt3_Ei9ORq',desinventar,DROUGHT,2019-03-30,Niger,ZINDER,DAMAGARAM TAKAYA,ALBARKARAM,ANGOUA DILA
+b'08ldG2RYslVXE4Vgs017',desinventar,DROUGHT,2019-03-31,Niger,ZINDER,MATAMAYE,YAOURI,KINKAOU
+b'nKVnTGhMEXVCiP588O8M',desinventar,DROUGHT,2019-04-30,Niger,DIFFA,DIFFA,GUESKEROU,DEWAFIDAYE
+b'XPucnFZenwgLoFAO0kaU',desinventar,DROUGHT,2019-05-30,Niger,ZINDER,BELBEJI,TANOUT,ABAGA
+b'd-DPf29nuT_oS0Ika7hj',desinventar,DROUGHT,2019-07-30,Niger,DIFFA,BOSSO,BOSSO,BILLIDJEDI
+b'wtNWIggiVSjRZlozmkr5',desinventar,DROUGHT,2019-09-26,Niger,AGADEZ,BILMA,DJADO,CHIRFA
+b'Wobdks2CbsXy4kSE0w0l',desinventar,DROUGHT,2019-09-30,Niger,MARADI,TESSAOUA,KORGOM,KARAHO+HARDO IBRAHIM OUMAROU
+b'SS3kN1MqJf65zMkImU-T',desinventar,FLOOD,2016-03-12,Niger,ZINDER,BELBEJI,OLLÉLÉWA,BEIKORI
+b'5DguEAYUJb1gu7fe3jdk',desinventar,FLOOD,2016-04-02,Niger,AGADEZ,TCHIROZERINE,DABAGA,DABAGA
+b'uj-m4wRpkzAUGiojxueb',desinventar,FLOOD,2016-04-02,Niger,AGADEZ,ADERBISSINAT,ADERBISSINAT,ADERBISSANAT
+b'JiIZ2EPzneoYSp36X5Hl',desinventar,FLOOD,2016-05-01,Niger,TAHOUA,TAHOUA,AFFALA,ALGASSEKARKARA
+b'KSS94jfc6ITYeeiUsW19',desinventar,FLOOD,2016-05-17,Niger,TAHOUA,TAHOUA,AFFALA,AFFALA
+b'KuVq657szbn1MrTIQZ0C',desinventar,FLOOD,2016-06-05,Niger,TAHOUA,BAGAROUA,BAGAROUA,BAGAROUA
+b'knasfNHowxF5cuvhuv4M',desinventar,FLOOD,2016-06-06,Niger,NIAMEY,NIAMEY,NIAMEY 5,NENEGOUNGOU
+b'eivd8xCfjpC2v3EcRPWl',desinventar,FLOOD,2016-06-06,Niger,NIAMEY,NIAMEY,NIAMEY 5,KOURTERE SAMBO
+b'v8u6P0HYInOEmFzp7bvd',desinventar,FLOOD,2016-06-06,Niger,NIAMEY,NIAMEY,NIAMEY 5,DIAWEY
+b'DNlh__l6cDmWZ1SurCsf',desinventar,FLOOD,2016-06-06,Niger,NIAMEY,NIAMEY,NIAMEY 5,GUINGUEL
+b'm5TLfjqAW_YlgkvZk1x8',desinventar,FLOOD,2016-02-01,Panama,COLÓN,COLÓN,BUENA VISTA,Sector Dos Rios.
+b'FFKR_ggs5BtiqhNXL62B',desinventar,FLOOD,2016-04-20,Panama,PANAMÁ OESTE,ARRAIJÁN,ARRAIJÁN (CABECERA),"BURUNGA, 13 DE FEBRERO."
+b'st8LOgNBz2QSflpAf0TD',desinventar,FLOOD,2016-04-20,Panama,PANAMÁ OESTE,ARRAIJÁN,ARRAIJÁN (CABECERA),"BURUNGA, LA NUEVA JERUSALÉN, Casa:#99-G / Casa: #99-B."
+b'kvtglgJHR0ApaHbxCuBl',desinventar,FLOOD,2016-05-04,Panama,COLÓN,COLÓN,BUENA VISTA,Coibita
+b'raiP_GgYsafLYVydDcQw',desinventar,FLOOD,2016-05-29,Panama,VERAGUAS,ATALAYA,SAN ANTONIO,BARRIADA DE SAN ANTONIO.
+b'bK8iUlL8SYnQxmvakx8Z',desinventar,FLOOD,2016-06-09,Panama,COLÓN,COLÓN,SAN JUAN,Sector Gatuncillo Norte.
+b'mgaCKFP2MVFiEvhzlXpV',desinventar,FLOOD,2016-06-10,Panama,COLÓN,COLÓN,BUENA VISTA,SECTOR EL 20.
+b'CxhTx2lWPl-TLT4OOwiG',desinventar,FLOOD,2016-06-16,Panama,COLÓN,COLÓN,BUENA VISTA,Sector El Vivero.
+b'P9dTkLEfr1umoW1tNpJS',desinventar,FLOOD,2016-06-21,Panama,HERRERA,OCÚ,OCÚ (CABECERA),SECTOR LA PORCADA.
+b'Zp2EwpD0LPhMaJ3lTwtn',desinventar,FLOOD,2016-07-04,Panama,HERRERA,CHITRÉ,CHITRÉ (CABECERA),"circunvalación, Altura de las tienda NOVEY"
+b'1u7fR9_6ZI_c0aKTEI6B',desinventar,DROUGHT,2017-10-09,Paraguay,CONCEPCION,,,
+b'VyWLxbgAPQ_Y9t2SO9OV',desinventar,DROUGHT,2017-10-09,Paraguay,CONCEPCION,,,
+b'BNqCWI_3_6csVIPkAGU3',desinventar,FLOOD,2016-01-06,Paraguay,SAN PEDRO,SANTA ROSA DEL AGUARAY,,Barrio San Valentín
+b'LWeMYqlE39kTAYHA9F4x',desinventar,FLOOD,2016-01-09,Paraguay,ALTO PARAGUAY,,,
+b'aduSiiseL7tguQTl3y01',desinventar,FLOOD,2016-01-12,Paraguay,ALTO PARANA,CIUDAD DEL ESTE,,Barrio San Rafael
+b'LyvlGZVZJun3tWxvRWDO',desinventar,FLOOD,2016-01-14,Paraguay,BOQUERON,FILADELFIA,,
+b'a0SA_vCK5OvXNu7TeFer',desinventar,FLOOD,2016-01-20,Paraguay,MISIONES,AYOLAS,,
+b'UMNTlxHvhrY7ULFfuTWR',desinventar,FLOOD,2016-01-26,Paraguay,ÑEEMBUCU,PILAR,,
+b'fjpbCkRvE1rDTOdksRdi',desinventar,FLOOD,2016-01-30,Paraguay,ÑEEMBUCU,PILAR,,
+b'bh70vepVK1h2KzUfi7J9',desinventar,FLOOD,2016-02-26,Paraguay,AMAMBAY,BELLA VISTA,,
+b'K_l3n74mv6JxMWTF2xkq',desinventar,FLOOD,2016-03-03,Paraguay,MISIONES,AYOLAS,,Barrios San Josemí y San Rafael.
+b'nHPH1o-0M-Xlv-2p8GzY',desinventar,FLOOD,2016-03-05,Paraguay,ÑEEMBUCU,CERRITO,,
+b'Yivz8nTPTBR3hzYYqTgJ',desinventar,FLOOD,2019-07-12,Senegal,,,,
+b'KwqRqzXnBCtNt3nA3SSx',desinventar,FLOOD,2019-07-12,Senegal,,,,
+b'TK4surbLGphpuzLvOfLw',desinventar,FLOOD,2019-10-22,Senegal,,,,
+b'd774yPFT69J1f8doX-25',desinventar,FLOOD,2020-06-18,Senegal,,,,
+b'oLd1i6C1FfvfQ8UwOB_w',desinventar,FLOOD,2020-06-18,Senegal,,,,
+b'H2fn_S9s8HZHrE2ME0wE',desinventar,DROUGHT,2017-06-01,Serbia,PLANDIŠTE,,,Plandiste
+b'MD51awn-GPc7O82r_rV7',desinventar,DROUGHT,2017-07-10,Serbia,MEROŠINA,,,Merosina
+b'Ki7qsSPii1DdVhuVMKqB',desinventar,FLOOD,2016-03-04,Serbia,BEOGRAD-OBRENOVAC,,,Obrenovac
+b'0roxc5vXjV1tVuYcodKg',desinventar,FLOOD,2016-03-06,Serbia,POŽEGA,,,Požega
+b'v4iug_8WX2GZwDuR_BPZ',desinventar,FLOOD,2016-03-07,Serbia,IVANJICA,,,Ivanjica
+b'Hc3_PNHQLlHm3d0Nqc2d',desinventar,FLOOD,2016-03-07,Serbia,PREŠEVO,,,Preševo
+b'bm7SxUBrOd4RVpwdiQ8p',desinventar,FLOOD,2016-03-07,Serbia,LUÈANI,,,Lucani
+b'zANo56ZFR9MeXwefUySn',desinventar,FLOOD,2016-03-07,Serbia,KRALJEVO-GRAD,,,Kraljevo i 15 mz.
+b'WGh7nkPvvbiuy4ixe7f8',desinventar,FLOOD,2016-03-08,Serbia,TRSTENIK,,,"Odžaci, Ribnik, Počekovina, Bogdanje"
+b'bhR7tLXggj586QvKwJU2',desinventar,FLOOD,2016-03-09,Serbia,PARAÆIN,,,"Trešnjevica, Raševica, Sinji Vir, Potočac"
+b'69LVahCtnHEGZ1BhyT80',desinventar,FLOOD,2016-03-09,Serbia,PARAÆIN,,,Paraćin
+b'LqxiYoyDSGfdsuwf7coI',desinventar,FLOOD,2016-03-10,Serbia,BOR,,,Bor
+b'DPehS-IYuhROikhsvJxn',desinventar,FLOOD,2049-06-25,Spain,Provincia no definida,"Granja d'Escarp, La",,
+b'ai5zqP-h4X0hdT2oJQpo',desinventar,DROUGHT,2016-02-12,Sri Lanka,Sabaragamuwa,Kegalle,Kegalle,
+b'TBEg_M6o3zs6ZM0d0bsA',desinventar,DROUGHT,2016-02-29,Sri Lanka,Sabaragamuwa,Kegalle,Ruwanwella,
+b'xrEK7Pp4CTUUK0msok7l',desinventar,DROUGHT,2016-03-04,Sri Lanka,Sabaragamuwa,Kegalle,Bulathkohupitiya,
+b'tPCNsttjUvNuI200fppX',desinventar,DROUGHT,2016-03-04,Sri Lanka,Sabaragamuwa,Kegalle,Aranayaka,
+b'3zymB8JVam8djMqN4BqB',desinventar,DROUGHT,2016-03-24,Sri Lanka,Sabaragamuwa,Kegalle,Dehiovita,
+b'cVcZx6YZxjJp8bTfQckP',desinventar,DROUGHT,2016-03-31,Sri Lanka,Northern,Mannar,Musalai,
+b'AOPbEcZB-2fQy7gukyfH',desinventar,DROUGHT,2016-04-11,Sri Lanka,Eastern,Trincomalee,Seruvila,
+b'8S4ciTL7hZAD4FOGE466',desinventar,DROUGHT,2016-04-22,Sri Lanka,Northern,Mullaitivu,Maritimepattu,
+b'5TT8ZuONwpa89dDAeyDl',desinventar,DROUGHT,2016-04-27,Sri Lanka,North-Central,Polonnaruwa,Welikanda,
+b'w0jIkjRVdt39E_Uvg6aQ',desinventar,DROUGHT,2016-05-06,Sri Lanka,Northern,Kilinochchi,Kandavalai,
+b'pWPjipuckL0C4vUPkkAT',desinventar,FLOOD,2016-01-06,Sri Lanka,Northern,Vavuniya,Vavuniya North,
+b'RcKjufck-aHRZRI0rJKK',desinventar,FLOOD,2016-01-06,Sri Lanka,Northern,Mullaitivu,Oddusuddan,
+b'6lnL5CMyyx5h4CK88PvI',desinventar,FLOOD,2016-01-07,Sri Lanka,Eastern,Trincomalee,Gomarankadawala,
+b'maHiMEtNRoCwqLA1IGmT',desinventar,FLOOD,2016-01-07,Sri Lanka,Central,Nuwara Eliya,Walapane,
+b'VIiRYA5MXK75LInqKdYr',desinventar,FLOOD,2016-01-07,Sri Lanka,Central,Nuwara Eliya,Hanguranketha,
+b'82bWaf_bvk6tYg3SbZvM',desinventar,FLOOD,2016-01-08,Sri Lanka,Eastern,Trincomalee,Kinniya,
+b'Nt36NZAT6Z5qdcxLe-2r',desinventar,FLOOD,2016-01-09,Sri Lanka,Eastern,Trincomalee,Kanthalai,
+b'yw8H1OR9q6y3M98Ejqit',desinventar,FLOOD,2016-01-10,Sri Lanka,Eastern,Trincomalee,Thambalagamuwa,
+b'kIBjkdLiNbw7qgAjzQLz',desinventar,FLOOD,2016-02-17,Sri Lanka,Central,Nuwara Eliya,Hanguranketha,
+b'_QDsa6tdijvxFNDQ-LaI',desinventar,FLOOD,2016-03-10,Sri Lanka,Sabaragamuwa,Kegalle,Mawanella,
+b'3LXlrsq5QeLe-EGxytlO',desinventar,DROUGHT,2016-08-01,Timor Leste,,,,Timor
+b'c3nMEmpexqfplM5TAYyo',desinventar,FLOOD,2016-02-02,Timor Leste,DILI,DOM ALEIXO,COMORO,Aldeia Mauk
+b'gIoLgqUnZpB2PbwRG5Kn',desinventar,FLOOD,2016-02-02,Timor Leste,DILI,DOM ALEIXO,BAIRRO PITE,Aldeia Laulora no Buka Fini
+b'F_t6vbOjW1SkcHqkTDmO',desinventar,FLOOD,2016-02-02,Timor Leste,DILI,DOM ALEIXO,COMORO,Aldeia Manemesak
+b'5z-7BEQi2vUdsTiz0U3a',desinventar,FLOOD,2016-02-05,Timor Leste,DILI,CRISTO REI,BECORA,Aldeia Kulau laletek
+b'hlUoQDR6eKq4jwkDRZcb',desinventar,FLOOD,2016-02-05,Timor Leste,DILI,CRISTO REI,BECORA,Aldeia Kakeu laran
+b'8LDAzqQP3ZA0mlGzJXdV',desinventar,FLOOD,2016-02-05,Timor Leste,DILI,CRISTO REI,BECORA,Aldeia  Fatuk Francisco
+b'nZWZ0aLC3hzVKLsKkneU',desinventar,FLOOD,2016-02-05,Timor Leste,DILI,CRISTO REI,BECORA,Aldeia Mota ulun
+b'qTVejJeNtu0BshDXU7En',desinventar,FLOOD,2016-02-05,Timor Leste,DILI,CRISTO REI,BECORA,Aldeia Klak Fuik
+b'iXpuNx2kCsHtuKHmqND_',desinventar,FLOOD,2016-02-09,Timor Leste,BAUCAU,QUELICAI,WAITAME,Aldeia Gugulai
+b'ITQakoFL57KM92feYmPr',desinventar,FLOOD,2016-02-10,Timor Leste,DILI,NAIN FETO,LAHANE ORIENTAL,Aldeia Becae kk 3 Marabia kk 3 Tubarai kk 1
+b'RexN9FAiobXTD-amf9AN',desinventar,DROUGHT,2016-03-02,Uganda,LAMWO,MADI OPEI,,"MADI OPEI, LUKUNG, PALOGA"
+b'sf-s58zE3xp0EG8Q-Bpf',desinventar,DROUGHT,2016-07-01,Uganda,KATAKWI,,,Olilim village
+b'LwHq_moaT2B9VvsA81Wa',desinventar,DROUGHT,2016-10-12,Uganda,OTUKE,,,
+b'Ae4t5vPi-bOvx0MajtA9',desinventar,DROUGHT,2016-11-14,Uganda,MOROTO,NADUNGET,LOPUTUK,north eastern part
+b'RPfpHlkPgL_AR1G8rKHQ',desinventar,DROUGHT,2016-11-14,Uganda,MOROTO,KATIKEKILE,KAKINGOL,katikekile
+b'4mrOSmgpljmkF6QkPOWD',desinventar,DROUGHT,2016-11-14,Uganda,MOROTO,RUPA,RUPA,Rupa
+b'XVvl6k2D03KkB-2LfKbe',desinventar,DROUGHT,2016-11-28,Uganda,SOROTI,GWERI,,
+b'GLKkKX3tcK_gF4tLoGet',desinventar,DROUGHT,2016-11-28,Uganda,SOROTI,KAMUDA,,
+b'K2-45oz1zgvWAdjK0YKj',desinventar,DROUGHT,2017-03-21,Uganda,MBARARA,RUBINDI,KABARE,galiraya village
+b'Ajwj20H7gZEIi4h0AS-N',desinventar,DROUGHT,2017-03-21,Uganda,MBARARA,RUBINDI,KABARE,IN KARUHANDA VILLAGE
+b'Hmtmy5qQNnlgY3nLFxru',desinventar,FLOOD,2016-01-04,Uganda,SIRONKO,BUTEZA,BUMIRISA,
+b'uIaHQCpPG3jMDxlvTBNe',desinventar,FLOOD,2016-02-19,Uganda,MBARARA,,,"IBAALE, NDEIJA1, NDEIJA , KYESIKA1,KYESIKA2,NYEIINDO"
+b'0VwoPcGMN4BeEZjJKmHV',desinventar,FLOOD,2016-03-28,Uganda,KIBAALE,,,Bubango trading centre
+b'WcPzKaGeCNJlUwb7GylY',desinventar,FLOOD,2016-04-01,Uganda,HOIMA,KIGOROBYA,,
+b'jobspDXBx8Mj4v9oBkDM',desinventar,FLOOD,2016-04-04,Uganda,KASESE,KILEMBE,,"rivers mubuku, Nyamwamba and ssebwe"
+b'I7uLW6NMWTy3dPQEtn5X',desinventar,FLOOD,2016-04-12,Uganda,KASESE,MUNKUNYU,KINYAMASEKE,
+b'XMGo55b56xzvvJRwNfzf',desinventar,FLOOD,2016-04-12,Uganda,KASESE,MALIBA,ISULE,
+b'kkvGaL4pJEgIjZzUXgHJ',desinventar,FLOOD,2016-04-12,Uganda,KASESE,BWERA,BWERA GR,KISOJO/ BUZIBWERA
+b'Iqanx_sYCac0XeM7iflk',desinventar,FLOOD,2016-04-12,Uganda,KASESE,,,
+b'db0nCncdWpMmSzEr2vOK',desinventar,FLOOD,2016-04-12,Uganda,KASESE,KILEMBE,,
+b'J8g-jmwuZIRAhGG21nL_',desinventar,DROUGHT,2020-02-29,United Republic  of Tanzania,Singida,,,All districts
+b'xh7PlRJAtixfUeZRwzw9',desinventar,FLOOD,2016-01-01,United Republic  of Tanzania,Dodoma,Dodoma Urban,,
+b'5WUdfAjEo5QVPHB02KYX',desinventar,FLOOD,2016-01-01,United Republic  of Tanzania,Dodoma,Dodoma Urban,,
+b'RDKnF31uvnSk-r1RIdOP',desinventar,FLOOD,2016-01-11,United Republic  of Tanzania,Mbeya,Mbarali,Itambaleo,
+b'XgB60xE2lx-zDqViD_rX',desinventar,FLOOD,2016-01-27,United Republic  of Tanzania,Lindi,Kilwa,,
+b'V-7AT1Wbzg-bNIYAqmVc',desinventar,FLOOD,2016-01-27,United Republic  of Tanzania,Lindi,Kilwa,,
+b'yGYEw5rBOghzNXrfABB1',desinventar,FLOOD,2016-01-31,United Republic  of Tanzania,Pwani,Rufiji,,10 Wards
+b'n55ISvGF6oo-Jlh6dzEb',desinventar,FLOOD,2016-01-31,United Republic  of Tanzania,Pwani,Rufiji,Chemchem,
+b'mQkYoXZXz7QqZ4F-Pecq',desinventar,FLOOD,2016-01-31,United Republic  of Tanzania,Mtwara,Mtwara Rural,,
+b'kVZ2MlbAE00hC_i85QNw',desinventar,FLOOD,2016-02-01,United Republic  of Tanzania,Mtwara,Mtwara Urban,,
+b'6cLFT9Nvg_AfuEL34vMz',desinventar,FLOOD,2016-02-02,United Republic  of Tanzania,Pwani,Rufiji,,"mwaseni, Kipugira, Mkongo, Ngorongo, Ikwiriri, Utete wards"
+b'3pxiCd8rMH4o3PZc1u8l',desinventar,FLOOD,2016-01-16,Zambia,Central,Kabwe,,kabwe area
+b'24tm3bfscFWu5H45CB_M',desinventar,FLOOD,2016-03-18,Zambia,Lusaka,Kafue,,chikupi area
+b'K8VHDYkmjLtqHyrP16YQ',desinventar,FLOOD,2016-06-20,Zambia,Eastern,Lundazi,,Dambo
+b'toCDZ6yzXPd3jHANEWj8',desinventar,FLOOD,2016-11-16,Zambia,Luapula,Mansa,,mansa area
+b'oh-_JFeiMKq--_OLPXqz',desinventar,FLOOD,2016-12-09,Zambia,Northern,Kaputa,,Kaputa road
+b'5vCTHMBcsYT0ZVriICUS',desinventar,FLOOD,2017-01-04,Zambia,Northern,Kasama,,Mwamba road
+b'kGe7KO9m-24Ljd1EX-I2',desinventar,FLOOD,2017-01-04,Zambia,Luapula,Samfya,,samfya
+b'a4qJWBvaJaN-w9kuzpBx',desinventar,FLOOD,2017-05-03,Zambia,Muchinga,Mpika,,Kaoma central constituency
+b'YnZeEurzMNoU1CbrWotx',desinventar,FLOOD,2017-05-03,Zambia,Copperbelt,Kitwe,,kitwe
+b'P1s_5R-35AGXmo5B65Qb',desinventar,FLOOD,2017-05-03,Zambia,Northern,Kasama,,chief Ntambu's area

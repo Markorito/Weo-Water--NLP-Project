@@ -1,0 +1,45 @@
+Country	Language
+Argentina	Spanish
+Austria	German
+Bangladesh	Bangla
+Belgium	French
+Brazil	Portuguese
+Bulgaria	Bulgarian
+Chile	Spanish
+China	Chinese
+Colombia	Spanish
+Cuba	Spanish
+Czech Republic	Čeština
+Egypt	Arabic
+France	French
+Germany	German
+Greece	Greek
+Hungary	Magyar
+Israel	Hebrew
+Italy	Italian
+Japan	Japanese
+Lebanon	Arabic
+Lithuania	Lietuvių
+Mexico	Spanish
+Morocco	French
+Netherlands	Dutch
+Norway	Norsk
+Peru	Spanish
+Poland	Polish
+Portugal	Portuguese
+Romania	Română
+Russia	Russian
+Saudi Arabia	Arabic
+Senegal	French
+Serbia	Serbian
+Slovakia	Slovenčina
+Slovenia	Slovenščina
+South Korea	Korean
+Sweden	Swedish
+Switzerland	German
+Thailand	Thai
+Turkey	Turkish
+Ukraine	Russian
+United Arab Emirates	Arabic
+Venezuela	Spanish
+Vietnam	Vietnamese

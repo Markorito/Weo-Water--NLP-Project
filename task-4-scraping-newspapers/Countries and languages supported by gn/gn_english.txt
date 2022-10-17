@@ -1,0 +1,25 @@
+Country	Language
+Australia
+Botswana
+Canada
+Ethiopia
+Ghana
+India
+Indonesia
+Ireland
+Israel
+Kenya
+Latvia
+Malaysia
+Namibia
+New Zealand
+Nigeria
+Pakistan
+Philippines
+Singapore
+South Africa
+Uganda
+United Kingdom
+United Republic of Tanzania
+United States
+Zimbabwe

@@ -1,0 +1,14 @@
+version: "3.9"
+services:
+  app:
+    build: .
+    ports:
+      - "8080:8080"
+    command: "--cliff=http://cliff:8080"
+  cliff:
+    image: "rahulbot/cliff-clavin"
+    #image: "rahulbot/cliff-clavin:2.6.1"
+    deploy:
+      resources:
+        limits:
+          memory: 8G

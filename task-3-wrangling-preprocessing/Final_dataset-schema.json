@@ -1,0 +1,60 @@
+{
+    "Id":{
+        "dtype": "string",
+        "description": "column ID",
+        "MLtype" : ""
+    },
+    "Body":{
+        "dtype": "strings",
+        "description": "article content, tweets, Facebook and Instagram posts",
+        "MLtype" : "categorical data"
+    },
+    "Title":{
+        "dtype": "strings",
+        "description": "news headlines , ...",
+        "MLtype" : "categorical data"
+    },
+    "Keywords":{
+        "dtype": "strings",
+        "description": "search keywords",
+        "MLtype" : "categorical data"
+    },
+    "Time":{
+        "dtype": "datetime",
+        "description": "date and time of event ",
+        "MLtype" : "Time Series Data"
+    },
+    "Category":{
+        "dtype": "string",
+        "description": "the label column",
+        "enum": ['flood,drought,none,flood_drought,climate change,tree'],
+        "MLtype": "categorical data"
+    },
+    "Country":{
+        "dtype": "string",
+        "description": "",
+        "MLtype": "categorical data"
+    },
+    "Data Source":{
+        "dtype": "string",
+        "description": "An internal score.",
+        "enum":['news article, facebook, twitter, instagram'],
+        "MLtype": "categorical data"
+    },
+    "Location":{
+        "dtype": "float",
+        "description": "latitude and longitude",
+        "MLtype": "numerical data"
+    }
+    "Language":{
+        "dtype": "string",
+        "description": "",
+        "MLtype": ""
+    }
+    "Source URL":{
+        "dtype": "string",
+        "description": "link to source content",
+        "MLtype": "text"
+    }
+
+}

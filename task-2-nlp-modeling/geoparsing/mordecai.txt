@@ -1,0 +1,1242 @@
+
+0: "IDM camp located at Ingyinyan tonwship, Kachin state has been facing with drinking water shortage as heavy rain led a flood there. Access to safe water resources has become one important factor in every IDM. #June4Coup  #WhatsHappeningInMyanmar  https://t.co/ujY4y7ebJG"
+=> No geolocation found.
+
+1: "Heavy rains and floods registered in the municipality of El Carmen Bolivar, Colombia  https://t.co/emNocI6ikr  #colombia #elcarmendebolivar #floods #rains #flooding #disaster #floodcolombia #storm #weather #flashfloods  https://t.co/WN9ZfIFBVT[]"
+=> COL 0.8952957391738892 (El Carmen Bolivar -> El Carmen de Bolívar)
+=> COL 0.9516947865486145 (Colombia -> Puerto Colombia)
+
+2: "Typhoon #Surigae leaves the #Philippines in #floods  Follow us on Telegram  https://t.co/a7xmeYo3u6  https://t.co/ViojfSKprQ[]"
+=> PHL 0.9516947865486145 (Philippines -> Republic of the Philippines)
+
+3: "ILX issues Flood Warning valid at May 12, 4:00 PM CDT for Illinois River near Havana [IL] until further notice https://t.co/U4eL5zP0US https://t.co/MMO9THgJfU"
+=> USA 0.9637409448623657 (Illinois -> Illinois)
+=> CUB 0.9637409448623657 (Havana -> Havana)
+=>  0
+
+4: "Louisiana begins cleanup after #FLOODS destroy tens of thousands of homes  https://t.co/wf1sl7lXg8[]"
+=> USA 0.9634981751441956 (Louisiana -> Louisiana)
+
+5: "Texas braces for record-breaking #FLOODS  https://t.co/v0aIovwLc4 #GPWX[]"
+=> USA 0.9634981751441956 (Texas -> Texas)
+
+6: "Sudden rains hit Iran Causing heavy Flooding  https://t.co/wiXXS5suQE  #Iran #floods #disaster #flooding #storm #rain  https://t.co/JCOyHJTtgP[]"
+=> IRN 0.9481911659240723 (Iran -> Islamic Republic of Iran)
+=> IRN 0.9481911659240723 (Iran -> Islamic Republic of Iran)
+
+7: "Search continues after major #FLOODS in Utah  https://t.co/mDPQbyiDIO #GPWX[]"
+=> USA 0.9634981751441956 (Utah -> Utah)
+
+8: "Heavy rain triggers flooding across Singapore, Environment News & Top Stories - The Straits Times  #flooding bad this year  #floods  how high in Singapore  up to the knees? Thighs?   https://t.co/ciBecwSt8D[]"
+=> SGP 0.9481911659240723 (Singapore -> Republic of Singapore)
+=> SGP 0.9481911659240723 (Singapore -> Republic of Singapore)
+
+9: "#KSA #KSATweather  #Makkah #floods with heavy rains,   https://t.co/wTgwu545k7[]"
+=> SAU 0.6353263854980469 (Makkah -> Mecca Region)
+
+10: "Breaking News: WATCH: Rainwater busts through day care door, floods playroom  https://t.co/X5GSpWT9NJ"
+=> No geolocation found.
+
+11: "I just realised what I have been through since my childhood, are you the same? #plague #floods (not normal flood, but the entire city under water) #pandemic  In future #AI (😋)[]"
+=> No geolocation found.
+
+12: ""In the past several years #NC has spent billions recovering and rebuilding from #floods–the costliest type of natural disaster. What will #NCGA legislate this session for #mitigation?  https://t.co/nrWaHEtDq8[]"
+=> IND 0.9048774242401123 (NC -> Salikipara NC)
+
+13: "The Drought Is Making the Klamath River’s Baby Salmon Sick : #analytics #googleads #facebookads  https://t.co/MZcrPpbIJI[]"
+=> No geolocation found.
+
+14: "Setting fire to rainforests has been a method farmers have been using to clear land in Brazil for decades, but now because of drought conditions that have been affecting Brazil, they are burning hotter, longer and faster, Allen said.[]"
+=> BRA 0.9481911659240723 (Brazil -> Federative Republic of Brazil)
+=> BRA 0.9481911659240723 (Brazil -> Federative Republic of Brazil)
+
+15: "After years of drought, #farmers in the #Riverina region were hoping to enjoy a bumper #rice harvest this year. But the #mouseplague is threatening to destroy their hard work.   https://t.co/y7BVeW1a0h[]"
+=> AUS 0.9528108835220337 (Riverina -> Wagga Wagga Experimental Farm School)
+
+16: "I hope Australia doesn't have an extreme climatic event like this 39 year drought, no industrial revolution in those day's.[]"
+=> AUS 0.9516947865486145 (Australia -> Commonwealth of Australia)
+
+17: "How the Taiwan drought means you can’t have a new smart TV #Electronics #components #processors #InformationTechnology #manufacturing #factorys  https://t.co/pmSWWN0bIX[]"
+=> TWN 0.9516947865486145 (Taiwan -> Taiwan)
+
+18: "@davidbewart The National party are only there for mining interests, remember the drought and bushfires and now the trade war with China that they support[]"
+=> CHN 0.6875818967819214 (China -> China University of Geosciences)
+
+19: "@NickEggleton @AlboMP Panicking Nana's? You have got to be joking! The collapse of responsibility, of action, of integrity in this govt is nothing short of mind blowing. From drought, fire, flood, covid its all failures. All Morriscum does is less speed, no delivery. Labor is the only way forward.[]"
+=> No geolocation found.
+
+0: "Parts of Hatigaon and several other areas in Guwahati get waterlogged after incessant rain in the city on Monday.
+#TheAssamTribune #FlashFlood"
+=> IND 0.9048774242401123 (Guwahati -> Guwahati)
+
+1: "Flash floods in Nepal, caused likely by a glacial outburst in a high lying area bordering Tibet, have created chaos and wreaked havoc in Sindhupalchok taking at least seven lives so far, while 20 people have been reported missing. Three Indians and three Chinese nationals are among 20 missing people in Sindhupalchok flash floods, District Administration Office of Sindhupalchok said.
+Source: Ground News
+.
+.
+#nepal #india #flood #flashflood #naturaldisaster #nepalflashflood #glacier #breakingnews #news #mediabiaschart #paradigm"
+=> NPL 0.954474687576294 (Nepal -> Federal Democratic Republic of Nepal)
+=> CHN 0.8507529497146606 (Tibet -> Tibet Autonomous Region)
+=> NPL 0.9289798736572266 (Sindhupalchok -> Sindhupalchok)
+
+2: "Nepal: Flash floods wreak havoc in Sindhupalchok. As per officials, about 200 houses in Melamchi town have been partially or completely damaged. 
+
+(Video: ANI)
+. 
+. 
+#Nepal #Sindhupalchok ##flashflood #flood #RisingIndore"
+=> NPL 0.9516947865486145 (Nepal -> Federal Democratic Republic of Nepal)
+=> NPL 0.9395217895507812 (Sindhupalchok -> Sindhupalchok)
+=> NPL 0.9395217895507812 (Melamchi -> Melamchi̇̄ Kholā)
+
+3: "Nepal: Flash floods wreak havoc in Sindhupalchok. As per officials, about 200 houses in Melamchi town have been partially or completely damaged. 
+
+(Video: ANI)
+
+#Nepal #Sindhupalchok ##flashflood #flood"
+=> NPL 0.9481911659240723 (Nepal -> Federal Democratic Republic of Nepal)
+=> NPL 0.9307740926742554 (Sindhupalchok -> Sindhupalchok)
+=> NPL 0.9307740926742554 (Melamchi -> Melamchi̇̄ Kholā)
+=> NPL 0.9481911659240723 (Nepal -> Federal Democratic Republic of Nepal)
+
+4: "Flash floods triggered by heavy monsoon rains have killed 10 people and injured five in Bhutan while leaving at least three dead and seven missing in Nepal. Resident's near the Melamchi river have moved to higher grounds while army helicopters rescue people trapped in marooned houses.
+
+#flashflood #monsoon #climate #bhutan #nepal #flooding #rescue"
+=> BTN 0.954474687576294 (Bhutan -> Kingdom of Bhutan)
+=> NPL 0.9531790018081665 (Nepal -> Federal Democratic Republic of Nepal)
+=> NPL 0.2187325358390808
+
+5: "The definition of a flash flood here in Colorado 
+Water pours down the usually dry arroyo after a fast and pounding rain storm #colorado #june #weather #flashflood #rain #arroyo #custercountycolorado"
+=> CRI 0.1916128396987915
+
+6: ""I'm seeing probably the worst combination of conditions in my lifetime," said Derrick DeGroot, a county commissioner in southern Oregon's Klamath County. "We have an enormous fuel load in the forests, and we are looking at a drought unlike we've seen probably in the last 115 years."
+
+Asked how worried he is about the 2021 fire season, DeGroot said: "On a scale of 1 to 10, I'm a 12. Nothing looks good."
+
+📷: Photo by Marcus Kauffman 
+🔥: The Jones Fire, Lowell, OR (2017)
+
+Source: (NC), W.-S. J. (2021, May 31). 'Nothing Looks Good': Preparing For Summer Wildfire Season. InsuranceNewsNet. https://insurancenewsnet.com/oarticle/nothing-looks-good-preparing-for-summer-wildfire-season."
+=> USA 0.9634981751441956 (Oregon -> Oregon)
+=> USA 0.9516947865486145 (Klamath -> Klamath County)
+=> GEO 0.23538720607757568
+=> USA 0.9516947865486145 (Lowell -> Lowell)
+=> IND 0.8529636859893799 (NC -> Salikipara NC)
+
+7: "I got stuck behind this truck going across the pass and started thinking about the fact that water is becoming illegal and the next big black market will be 💧 #BootLegging #Water #California #Drought #illegal #BlackMarket #liquidgold"
+=> No geolocation found.
+
+8: "The last three years, Southwest Utah hasn’t had a monsoon season. If you’re unfamiliar, the Southwest US typically experiences monsoons in July and August. These are big thunder storms that build during summer heat and deposit LOTS of moisture in a short amount of time. The storms are powerful and fierce. Slot canyons and washes fill and flash flood. The last few seasons summers have gotten hotter and we legitimately haven’t had a monsoon season in years. Last summer we had a grand total of one thunderstorm in St George proper. And in tandem with this we see more frequent and more severe wildfires. Last summer there were at least five significant fires that were very real threats to residential areas in our town. This spring there have been a number of major fires IN town already. So this is all to say this is probably going to keep trending this way and climate change is real. Fight me.
+.
+
+#optoutside #exploremore #wildernessculture #chaseyourgoat #goatworthy #adventureawaits #adventureculture #getoutstayout #parttimedirtbag #instagood #outdoorwomen #forceofnature #protectpubliclands #beautahful #utahrocks #protectwildutah #igersstg #utahunique #climatechangeisreal #climatechange #drought #monsoon #monsoonseason #desertmonsoon"
+=> USA 0.24821266531944275
+=> AUS 0.28365933895111084
+
+9: "From 2012 to 2015 California experienced its driest consecutive four-year stretch since record-keeping began in 1896. Experts are already predicting that the state’s current drought will be even worse. 
+
+What did the state learn from the last drought? How are growers adapting? What does reduced water allocation mean for farm workers? We’re breaking down the basics for you as we grapple with these questions."
+=> COL 0.1916128396987915
+
+10: "Each year, Lake Oroville helps water a quarter of the crops in the U.S. and anchors the tourism industry for a county that frequently has to rebuild after wildfires.⁠
+⁠
+But the lake is shrinking with surprising speed amid a severe drought, with state officials predicting it will reach a record low later this summer.⁠
+⁠
+The Department of Water Resources projects the lake will dip below its record low of 646 feet sometime in August or September. If that happens, the state will have to close the boat ramps for the first time ever because of low water levels.⁠
+⁠
+California's more than 1,500 reservoirs are 50% lower than they should be this time of year, according to one expert.⁠
+⁠
+Tap the link in bio to learn more.⁠
+⁠
+(📸: Justin Sullivan/Getty Images)⁠
+⁠
+#nbcla #climatechange #drought #lakeoroville"
+=> USA 0.9516947865486145 (Lake Oroville -> Lake Oroville Landing Area Seaplane Base)
+=> COL 0.1916128396987915
+=> USA 0.23163747787475586
+
+11: "#LakeMead the largest reservoir in America, is half in Nevada and half in Arizona. Yet while Arizona gets 17% of the water Nevada only gets 2%. Even more, Nevada doesn't use its full 2%! So don't blame #LasVegas Everybody likes to say Vegas hotels are using all the water, yet they only consume about 6% of Las Vegas total usage! Who to blame? Well you could blame California, which consumes 27%. But really just blame mother nature who gives us droughts and floods and earthquakes and volcanoes and so on. We are all at the mercy of a climate and ecology that is always changing. After all, Nevada has been a ocean many times before. The earth is in constant change, on time scales so large we can barely perceive it. We are just tiny little ants along for the ride with minimal ability to steer our own course. #Drought #ClimateChange 🇺🇸🇦🇹🇧🇪🇨🇦🇨🇿🇩🇰🇫🇮🇫🇷🇩🇪🇬🇷🇭🇺🇮🇹🇮🇪🇳🇱🇳🇿🇳🇴🇵🇹🇵🇱🇷🇺🇪🇸🇸🇪🇨🇭🇬🇧🏴󠁧󠁢󠁥󠁮󠁧󠁿🏴󠁧󠁢󠁳󠁣󠁴󠁿🏴󠁧󠁢󠁷󠁬󠁳󠁿 #America #Austria #Australia #Belgium #Canada #CzechRepublic #Denmark #Finland #France #Germany #Greece #Ireland  #Italy #Netherlands #NewZealand #Norway #Poland #Portugal #Russia #Spain #Sweden #Switzerland  #GreatBritain #England #Scotland #Wales"
+=> USA 0.9458812475204468 (America -> Little America)
+=> USA 0.9608534574508667 (Nevada -> Nevada)
+=> USA 0.9608534574508667 (Arizona -> Arizona)
+=> USA 0.9608534574508667 (Arizona -> Arizona)
+=> USA 0.9608534574508667 (Nevada -> Nevada)
+=> USA 0.9608534574508667 (Nevada -> Nevada)
+=> HND 0.22326910495758057
+=> HND 0.22326910495758057
+=> COL 0.22326910495758057
+=> USA 0.9608534574508667 (Nevada -> Nevada)
+=> NA 0.18858438730239868
+=> USA 0.21807929873466492
+=> AUT 0.9301816821098328 (Austria -> Republic of Austria)
+=> BEL 0.9239989519119263 (Belgium -> Kingdom of Belgium)
+=> CAN 0.9239989519119263 (Canada -> Canada)
+=> FIN 0.9239989519119263 (Finland -> Republic of Finland)
+=> FRA 0.2517468333244324
+=> GRC 0.2517468333244324
+=> NOR 0.9239989519119263 (Norway -> Kingdom of Norway)
+=> POL 0.9239989519119263 (Poland -> Republic of Poland)
+=> PRT 0.9239989519119263 (Portugal -> Portuguese Republic)
+=> RUS 0.6120787858963013 (Russia -> Russian Federation)
+=> ESP 0.9239989519119263 (Spain -> Kingdom of Spain)
+=> CHE 0.9239989519119263 (Switzerland -> Switzerland)
+
+12: "There is a clear distinction between the way Pasadena deals with their waterway and how Los Angeles deals with theirs. The upper Arroyo Seco in Pasadena was beautiful with little graffiti and zero homeless camps. As soon as you get into LA County it becomes a big mess with homeless camps on both sides at various locations. We saw lots of wood-burning fires at these homeless camps along our route. It literally looks like good old-fashioned camping. 
+
+Some dude yelled at me and Joe as we were passing by and said give me your bike. We just kept going. Didnt want to have break him off some and dish him out some broken bones lol.
+
+______________________________________________________________________
+#BelowLA #BelowLosAngeles #LAriver #losangelesriver #draining #arroyoseco #LArain #raininLA #harmonicaplayer #losangeles #california #lacanada #lacounty #calilife #calilove #flood #pollution #devilsgatedam #stormdrain #floodcontrol #floodprevention #river #sanfernandovalley #civilengineer #sanitation #civilengineering #urbex #hydrology #pasedena #tunnelsbeneathlosangeles"
+=> USA 0.9571880102157593 (Pasadena -> Pasadena)
+=> MEX 0.28365933895111084
+=> USA 0.9571880102157593 (Pasadena -> Pasadena)
+=> USA 0.9048774242401123 (LA -> La Habra)
+
+13: "Flooded Roller Coaster, probably in Riverside Park, Indianapolis, Indiana. 1913.⠀
+⠀
+#memoriesoftheprairie #oldphoto #blackandwhite #indy #americana #rollercoaster #vacation #flood #indianalife #history"
+=> USA 0.6909961700439453 (Riverside Park -> Riverside Park)
+=> USA 0.9516947865486145 (Indianapolis -> Indianapolis)
+=> USA 0.9634981751441956 (Indiana -> Indiana)
+=> TKL 0.23538720607757568
+=> TKL 0.23538720607757568
+
+14: "While the wound from previous year's Amphan was still raw at the coastal areas of Odisha and West Bengal, Yaas came and took away whatever hope was left. Photos are from Chandpur, Mandarmani, Digha, Bodhra and surrounding places that are among the worst-affected areas (East Medinipur) of the cyclone Yaas. 
+
+Photo 1- The old couple like countless others failed to save anything from the sudden flood. With his granddaughter in lap, he curses his fate that left his family with nothing but a few clothes. 
+
+Photo 2- An old woman who has taken shelter at Bodhra Pantheswari High School.  
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+#indiaphotoconcept 
+#photodocumentary #documentaryphotographer #socialdocumentary #photoreportage
+#yourshotphotographer
+#streetphotographyhub
+#creativeimagemagazine
+#nikonz6ii #reuters #bbcnews #afp #photojournalist 
+#yaas #naturaldisaster #victim #cycloneyaas #cyclone #flooded #digha #disaster #disasterrelief #coastalhome #coastalliving
+#villagers"
+=> IND 0.9048774242401123 (Odisha -> State of Odisha)
+=> IND 0.9048774242401123 (West Bengal -> West Bengal)
+=> BGD 0.9221303462982178 (Chandpur -> Chandpur)
+=> IND 0.9048774242401123 (East Medinipur -> Purba Medinipur)
+=> USA 0.24821266531944275
+
+15: "2020 Champions of the Earth awardee Yacouba Sawadogo's nature-based solution is an inspiration for millions. At WeNaturalists, we celebrate such heroes.
+
+If you're contributing to a cause of nature, connect with us and we'll amplify your cause.
+.
+.
+.
+#WeNaturalists #Ecosystem #Wildlife #sustainable #climatechange #desertification #organicfarming"
+=> No geolocation found.
+
+16: "Photo of the nature of a village in the city of izeh
+Beautiful rural nature
+
+Photo: babak javedaneh 📷🤳🏼
+#poster #karun #dead #babak_javedaneh #blue #situation #artbabak #instagram #everydayiran #iran #ahvaz #goodmorning #cleaneating #sky #work #children #desertification #baby #who #worldhealthorganization #unicef #nationalgeographic #nature #themountain #izeh
+#khuzestan 
+#بابک_جاودانه"
+=> IRN 0.9571880102157593 (iran -> Islamic Republic of Iran)
+
+17: "Brazil: Drought concerns as water levels in reservoirs along Parana river basin run low 🚁Dário Oliveira #drought #dry #whater #reportage #journalism #mavic #dji #reservoir #arid #represairaí"
+=> BRA 0.9516947865486145 (Brazil -> Federative Republic of Brazil)
+=> BRA 0.40238043665885925
+
+18: "When the rain forgets Puglia , irrigation saves our spinach crops  #spinach #spinach-seeds #nature #irrigationsystem #drought #springtime #seedsproduction #spinachvirofly #openpollinatedseeds #oldvarieties #germoplasma #amateurvariety #decoratosementi #italy🇮🇹 #italianseeds #pugliaview #alapiovana #digacapacciotti"
+=> ITA 0.9048774242401123 (Puglia -> Puglia)
+=>  0
+=> USA 0.8799220323562622 (italy -> Louisa)
+
+19: "We had a Flash Flood yesterday. Thankfully, all the critters are safe & accounted for. 
+
+Multiple strong/healthy trees uprooted/came down. One barely missed a Layer Coop, thankfully all the hens are safe. 
+
+1 Flood Gate was completely torn off while 2 more needed serious work to clear. 
+
+At one point, the Turkey pen had 3 inches of water (we’ve never seen that area flood before). 
+
+The barn almost flooded. 
+
+Thank heaven for good neighbors & friends!!! They helped us get gates & fences cleared. It was a long & tiring day but we made it through. 
+
+Whoever did the rain dance yesterday, please don’t do it again. Maybe try some Zoomba instead. 
+
+#farm #farmlife #farmlifebestlife #farmlifeisthebestlife #homestead #homesteading #homesteadinglife #farmersofinstagram #homesteadersofinstagram #flashflood #virginia #shenandoahvalley #shenandoahvalleyfarm"
+=> ZAF 0.23538720607757568
+=> TUR 0.9516947865486145 (Turkey -> Republic of Turkey)
+
+20: "Just one week into this year's monsoon and fierce wrath of nature has taken its toll. 
+
+Areas of Helambu & Melamchi in central Nepal's Sindhupalchok District has been inundated by flash floods and multiple landslides. 
+
+Thousands of families have been displaced, search for the missing continues,
+ and as many as 7 fatalities have been reported so far. 
+
+Monsoon is predicted to be heavier than previous years this season, and several regions have been issued a warning by the Flood Forecasting Division of the Department of Hydrology and Meteorology. 
+
+Every year, along with monsoon, comes predicted flash-floods but early preparedness is a sector we as people & the nation continue to fail. 
+
+Exclusive contributing footage for on_the_record_nepal by Navesh Chitrakar ( navesh.chitrakar ) 
+
+#SindhupalchowkFloods #FlashFlood #Nature #OnTheRecordNepal"
+=> NPL 0.9516947865486145 (Nepal -> Federal Democratic Republic of Nepal)
+=> NPL 0.23163747787475586
+
+0: "How does a glacier burst? Flooding in India leaves at least 31 dead and 165 missing. - USA TODAY"
+=> IND 0.6875818967819214 (India -> Republic of India)
+
+0: "At least 31 people are dead and 165 are missing after a flood hit northern India on Sunday. The flood was caused when part of a Himalayan glacier broke off and sent a wall of water and debris down a mountain, sweeping away everything in its path.
+
+Rescuers on Monday were trying to rescue 37 power plant workers who remained trapped in a tunnel.
+
+More than 2,000 members of the military, paramilitary groups and police have been taking part in search-and-rescue operations in the northern state of Uttarakhand.
+
+The flood was caused when a portion of the Nanda Devi glacier snapped off Sunday morning, releasing water trapped behind it.
+
+“Everything was swept away, people, cattle and trees,” Sangram Singh Rawat, a former village council member of Raini, the site closest to the glacier, told local media, according to Reuters.
+
+Here's what to know:
+
+How are glaciers formed?
+
+Glaciers begin to form when snow remains in the same area year-round, where enough snow accumulates to transform into ice, the National Snow and Ice Data Center said. Each year, new layers of snow bury and compress the previous layers.
+
+Most of the world's glacial ice is found in Antarctica and Greenland, but glaciers are found on nearly every continent, even Africa.
+
+A large cluster of glaciers is in the Himalayas, which are part of India’s long northern border. Sunday’s disaster occurred in the western part of the Himalayas.
+
+More:2020 falls just short of being Earth's hottest year on record as global warming continues
+
+How does a glacier burst?
+
+Proglacial lakes, formed after glaciers retreat, are often bound by sediment and boulder formations. Additional water or pressure, or structural weakness, can cause both natural and man-made dams to burst, sending a mass of floodwater surging down the rivers and streams fed by the glacier.
+
+In this case, National Snow and Ice Data Center scientist Bruce Raup told USA TODAY that the cause of this burst appears to be a landslide that collided with a steep glacier.
+
+He said that steep mountain environments can be hazardous for a number of reasons, including the fact that snow and ice on steep slopes can be unstable and slide catastrophically. In addition, rock and soil slopes, which undergo freeze/thaw cycles, can be unstable and can release, particularly during thaw cycles, Raup said.
+
+Is global warming involved?
+
+Experts said the disaster could be linked to global warming, and a team of scientists was flown to the site Monday to investigate exactly what happened.
+
+Geologist Dwarika Dobhal, from the Wadia Institute of Himalayan Geology, told the Guardian that "climate change will make these events more common."
+
+High temperatures coupled with less snowfall can accelerate melting, which can cause water to rise to dangerous levels.
+
+“Most mountain glaciers around the world were much larger in the past and have been melting and shrinking dramatically due to climate change and global warming,” said Sarah Das, an associate scientist at the Woods Hole Oceanographic Institution.
+
+Some 3 million Olympic-size swimming pools full of water melt from glaciers in the Himalayas each year, a 2019 study said, and climate change is the primary cause.
+
+Since the early 20th century, with few exceptions, glaciers around the world have been retreating at unprecedented rates, the National Snow and Ice Data Center said.
+
+Can glacial floods be predicted?
+
+Deadly or highly destructive glacial floods have occurred in Peru and Nepal. In Peru in 1941, 6,000 people died when a glacial lake burst through its dam, flooding the town of Huaraz below it.
+
+A number of areas at risk of glacier bursts have been identified worldwide, including in the Himalayas and in the Andes in South America.
+
+But while monitoring is possible, the remoteness of most glaciers presents challenges.
+
+“There are many glaciers and glacial dammed lakes across the Himalayas, but most are unmonitored,” Das said. “Many of these lakes are upstream of steep river valleys and have the potential to cause extreme flooding when they break. Where these floods reach inhabited regions and sensitive infrastructure, things will be catastrophic.”
+
+Contributing: The Associated Press"
+=> IND 0.6722002625465393 (India -> Republic of India)
+=> GRL 0.20758256316184998
+=> IND 0.8646736145019531 (Uttarakhand -> State of Uttarākhand)
+=> ATA 0.20758256316184998
+=> GRL 0.20758256316184998
+=> NA 0.8025449514389038 (Himalayas -> Himalayas)
+=> IND 0.6722002625465393 (India -> Republic of India)
+=> NA 0.8025449514389038 (Himalayas -> Himalayas)
+=> NA 0.16325578093528748
+=> NA 0.8025449514389038 (Himalayas -> Himalayas)
+=> PER 0.9404264688491821 (Peru -> Republic of Peru)
+=> NPL 0.9298957586288452 (Nepal -> Federal Democratic Republic of Nepal)
+=> PER 0.9404264688491821 (Peru -> Republic of Peru)
+=> PER 0.9404264688491821 (Huaraz -> Huaraz)
+=> NA 0.8025449514389038 (Himalayas -> Himalayas)
+=> COL 0.7651494741439819 (Andes -> Andes)
+=> NA 0.8025449514389038 (South America -> South America)
+=> NA 0.8025449514389038 (Himalayas -> Himalayas)
+
+1: "In Egypt, 8 Dead After Chaotic Day of Heavy Rains, Flooding - VOA News"
+=> EGY 0.9516947865486145 (Egypt -> Arab Republic of Egypt)
+
+1: "CAIRO - Heavy rains that pummeled the capital of Cairo and other parts of the country, causing massive traffic jams and flooding many key roads, left at least eight people dead, including four children, authorities said Wednesday.
+
+People captured images of Tuesday's downpours and flooding on their mobile phones, posting images on social media, including scenes of cars submerged by flood waters.
+
+In one dramatic video, a man on a bulldozer pulls the lifeless body of a little girl out of the water in a flooded area in northern Sharqia Province as shouts and screams are heard in the background. Another video shows a policeman, steps away from the presidential palace in Cairo's district of Heliopolis, wading into a flooded street to unclog a sewage drain.
+
+Authorities closed schools and universities in the greater Cairo area Wednesday and companies saw only skeletal staff show up at work. Prime Minister Mustafa Madbouly said school closures were limited to the greater Cairo area, including Giza and Qalioubia, as more rainfall was expected in the next couple of days, according to the country's weather service.
+
+The mayhem raised questions about Cairo's ability to deal with such heavy rains as the city's infrastructure and sewage and drainage systems have suffered from years of poor maintenance.
+
+People took to social media to criticize the government's lack of preparedness. Cairo, a city of some 20 million people, has been left for decades in neglect and decay, particularly its overcrowded neighborhoods.
+
+Hashtags like “(hash)Egypt is sinking” were trending on social media, attracting many videos and pictures of the most affected areas in Cairo and elsewhere.
+
+Five deaths occurred in the Nile Delta provinces of Sharqia, Gharbia and Kafr el-Sheikh, according to the Interior Ministry. Three of the victims, including two children, were electrocuted. The other two victims died falling from the rooftops of their flooded homes.
+
+Local authorities in northern Sinai also reported two deaths. Moataz Taher, head of the el-Hassana municipality, said in a statement that a 47-year-old farmer and his 13-year-old daughter died early Wednesday in the flooding.
+
+In the Mediterranean city of Alexandria, the heavy rain caused a three-story building to collapse Wednesday, killing a 7-year-old child and injuring her 19-year-old brother, according to the city's civil protection authority.
+
+In Cairo, the eastern suburb of Nasr City was hit the hardest, but so was Heliopolis, located near Cairo's international airport. The government said the two suburbs had received at least 650,000 cubic meters cubic feet of precipitation in just 90 minutes on Tuesday, overwhelming the city's sewage and drain systems.
+
+Trucks fanned out across Cairo to drain water from flooded areas. A key highway connecting Cairo to other provinces was closed, the state-run al-Ahram daily reported.
+
+EgyptAir said it had delayed some fights on Tuesday because passengers were stuck on the roads and unable to get to the airport. A part of the old Cairo airport terminal which has been under renovation was also flooded, with footage on social media showing rainwater pouring into the hallway.
+
+The Civil Aviation Ministry said that terminal was only being used by a private carrier for one or two flights a day and shared photos of it after it was cleaned up."
+=> EGY 0.9571880102157593 (Cairo -> Cairo)
+=> EGY 0.9528108835220337 (Sharqia -> Muḩāfaz̧at ash Sharqīyah)
+=> EGY 0.9571880102157593 (Cairo -> Cairo)
+=> DZA 0.28365933895111084
+=> EGY 0.9571880102157593 (Cairo -> Cairo)
+=> EGY 0.9571880102157593 (Cairo -> Cairo)
+=> EGY 0.9571880102157593 (Cairo -> Cairo)
+=> EGY 0.9571880102157593 (Cairo -> Cairo)
+=> EGY 0.9571880102157593 (Cairo -> Cairo)
+=> EGY 0.9637409448623657 (Nile Delta -> Nile Delta)
+=> JOR 0.2886894643306732
+=> MEX 0.28365933895111084
+=> EGY 0.8799220323562622 (Alexandria -> Alexandria)
+=> EGY 0.9571880102157593 (Cairo -> Cairo)
+=> EGY 0.9637409448623657 (Nasr City -> Idārat Madīnat Naşr at Ta‘līmīyah)
+=> DZA 0.28365933895111084
+=> EGY 0.9571880102157593 (Cairo -> Cairo)
+=> EGY 0.9571880102157593 (Cairo -> Cairo)
+=> EGY 0.9571880102157593 (Cairo -> Cairo)
+=> EGY 0.9571880102157593 (Cairo -> Cairo)
+
+2: "Egypt will not be hit by typhoon: Meteorological official - Egypttoday"
+=> EGY 0.9516947865486145 (Egypt -> Arab Republic of Egypt)
+
+2: "Weather. Vehicles drive during rush hour over El Sayeda Aisha Bridge near Al-Qalaa Square in Cairo, Egypt, December 5, 2018. (Photo: Reuters)
+
+CAIRO - 26 October 2019: Director of the Egyptian Meteorological Authority Mahmoud Shaheen denied on Saturday what NASA had predicted of an "unusual" tropical cyclone unprecedentedly hitting some parts of Egypt.
+
+
+
+Shaheen said that Egypt will not be hit by hurricanes but exposed to tropical depressions, which can be as violent and in-depth as the depression we are currently experiencing.
+
+
+
+NASA published a picture showing block of giant clouds approaching Egypt amid warnings of heavy rain and thunderstorms on Friday and Saturday.
+
+
+
+The Washington Post said NASA's image suggested an unusual tropical cyclone in some areas of Egypt and Israel, threatening storms and heavy rains and possibly even coastal flooding.
+
+
+
+Risk areas
+
+
+
+Shaheen said that the tropical depression between Cyprus and the Egyptian coast affects us with rain and wind, and this is what happened in the province of Alexandria this morning is scheduled to continue on the north of the Delta and the rest of the coast of Egypt Northern «Baltim, Port Said, Damietta, Ismailia, Arish and Rafah Central Sinai», these areas are experiencing rain on Saturday.
+
+
+
+Shaheen confirmed that moderate rainfall is expected in Cairo and northern Upper Egypt.
+
+
+
+The Egyptian Meteorological Authority (EMA) warned officials in coastal areas, Canal cities, Central and North Sinai to take the necessary measures to face the risks that may arise from floods.
+
+
+
+Flights cancelled
+
+
+
+The General Authority for Meteorology advised to cancel school and other trips to the governorates of the northern coasts, Delta, Canal cities and north and central Sinai on Saturday.
+
+
+
+The authority also demanded the cancellation of safari trips and non-residence in the compounds in these areas in order to ensure the safety of citizens and to prevent traffic jams.
+
+
+
+The authority also advise citizens in the governorates of the northern coasts, Delta, Canal cities, North and Central Sinai not to be present in places where there is rain as much as possible, except in case of extreme.
+
+
+
+The Meteorological Authority called on the citizens to help the concerned authorities in removing the accumulated quantities of water after the rain falls and advises the Authority not to be present under the metal plates or next to the lighting poles and electricity kiosks.
+
+
+
+Date of stabilization of weather conditions
+
+
+
+The Egyptian Meteorological Authority (EMA) announces to citizens that as of Sunday, 27 October, the weather conditions will improve with light rainfall on the northern coastal areas and central Sinai.
+
+
+
+Ashraf Saber Zaki, Acting Chairman of the Egyptian Meteorological Authority, said that the weather instability is expected to continue from Friday October 25 evening for 24 hours.
+
+
+
+Zaki explained that the proliferation of low and medium clouds accompanied by rainfall and heavy and thunder on the northern coasts and Alexandria and Rashid and Baltim and Damietta and Arish and Rafah
+
+
+
+Zaki said that the governorates of North Sinai, Delta and the cities of Ismailia Canal, Suez and Port Said reach the limit of floods, which leads to disruption of maritime traffic on the Mediterranean
+
+
+
+Not out of homes
+
+
+
+The cabinet instructed officials in Mediterranean, Delta, Canal and North and Central Sinai cities to raise the state of emergency to the maximum degree in preparation for instability in weather conditions.
+
+
+
+The cabinet appealed to citizens to abide by homes on Saturday and count out except in cases of extreme necessity and commitment to drive vehicles quietly, especially on highways.
+
+
+
+The warning concerned the people of the northern coastal governorates, the Delta, the Canal cities, and North and Central Sinai, in order to protect their safety and prevent traffic jams and to allow the concerned authorities to remove the accumulated quantities due to the expected heavy rains.
+
+
+
+Flood Forecasting
+
+
+
+The flood forecasting center affiliated to the Ministry of Irrigation reported that the maps of rain forecasting throughout the country during the next 72 hours showed the continuation of rainfall and may reach 20 mm on North Sinai and the Gulf of Suez and less severe on the northern and western coasts."
+=> SLV 0.24761012196540833
+=> EGY 0.9602998495101929 (Cairo -> Cairo)
+=> EGY 0.945296585559845 (Egypt -> Arab Republic of Egypt)
+=> EGY 0.945296585559845 (Egypt -> Arab Republic of Egypt)
+=> EGY 0.945296585559845 (Egypt -> Arab Republic of Egypt)
+=> EGY 0.945296585559845 (Egypt -> Arab Republic of Egypt)
+=> EGY 0.945296585559845 (Egypt -> Arab Republic of Egypt)
+=> ISR 0.934040904045105 (Israel -> State of Israel)
+=> CYP 0.9251352548599243 (Cyprus -> Republic of Cyprus)
+=> EGY 0.8842006921768188 (Alexandria -> Alexandria)
+=> CAN 0.757809042930603 (Delta -> Delta)
+=> EGY 0.945296585559845 (Egypt -> Arab Republic of Egypt)
+=> EGY 0.3570532202720642
+=> EGY 0.8465502262115479 (Port Said -> Muḩāfaz̧at Būr Sa‘īd)
+=> EGY 0.889739453792572 (Damietta -> Damietta Governorate)
+=> EGY 0.889739453792572 (Ismailia -> Ismailia Governorate)
+=> ISR 0.2741203308105469
+=> EGY 0.9602998495101929 (Cairo -> Cairo)
+=> EGY 0.945296585559845 (Upper Egypt -> Upper Egypt)
+=> RUS 0.21231108903884888
+=> EGY 0.8465502262115479 (North Sinai -> North Sinai)
+=> CAN 0.757809042930603 (Delta -> Delta)
+=> MEX 0.21231108903884888
+=> MEX 0.21231108903884888
+=> CAN 0.757809042930603 (Delta -> Delta)
+=> EGY 0.3508586883544922
+=> MEX 0.21231108903884888
+=> EGY 0.8842006921768188 (Alexandria -> Alexandria)
+=> EGY 0.889739453792572 (Damietta -> Damietta Governorate)
+=> EGY 0.8465502262115479 (Arish -> As Suways)
+=> EGY 0.8465502262115479 (North Sinai -> North Sinai)
+=> CAN 0.757809042930603 (Delta -> Delta)
+=> EGY 0.8465502262115479 (Ismailia Canal -> Ismailia Canal)
+=> EGY 0.8465502262115479 (Suez -> Suez)
+=> CHE 0.21231108903884888
+=> AUS 0.7547762393951416 (Mediterranean
+
+
+
+ -> The Mediterranean Port Douglas)
+=> CAN 0.757809042930603 (Delta -> Delta)
+=> ITA 0.757809042930603 (Canal -> Canale)
+=> EGY 0.3508586883544922
+=> CAN 0.757809042930603 (Delta -> Delta)
+=> ITA 0.757809042930603 (Canal -> Canale)
+=> EGY 0.3508586883544922
+=> EGY 0.8465502262115479 (North Sinai -> North Sinai)
+=> EGY 0.3508586883544922
+
+3: "Floods, landslides kill at least 91 in Sri Lanka - RTÉ News"
+=> LKA 0.9516947865486145 (Sri Lanka -> Democratic Socialist Republic of Sri Lanka)
+
+3: "Flooding and landslides killed at least 91 people and left another 110 missing in Sri Lanka as the monsoon set in today, dumping record rainfalls in many parts of the island, authorities said.
+
+About 20,000 people were also driven out of their homes in the south and western parts of the country, the Disaster Management Centre said.
+
+"The Southwest monsoon began with very intense rain," deputy minister for Disaster Management Dunesh Gankanda told reporters in Colombo.
+
+"There are some areas where we are unable to reach, but relief operations are under way."
+
+The DMC said the toll rose to 91 dead and another 110 missing as reports came in from areas which had been inaccessible earlier in the day.
+
+Sri Lanka appealed to the international community including the United Nations and neighbouring countries for help as the numbers of dead and missing climbed.
+
+Heavy rains in the southern and western parts of the country have destroyed hundreds of homes and cut off several roads.
+
+"The (foreign) ministry will continue to monitor the flood situation and seek assistance as required in consultation with the Ministry of Disaster Management," the government said in a statement.
+
+Sri Lanka is appealing to the international community and neighbouring countries for help
+
+It said Colombo had already sounded out the UN and its South Asian neighbours.
+
+The latest flooding was the worst since May 2003 when 250 people were killed and 10,000 homes destroyed after a similarly powerful southwest monsoon, officials said.
+
+Today, the military deployed thousands of troops to reach marooned villagers and the airforce carried out several rescue operations to pluck people from rooftops of flooded homes.
+
+In the early hours of the day a mountainside collapsed on a women's hostel at a tea plantation at Neluwa in the island's south, killing at least seven women, police said.
+
+Evacuation notices were issued to residents along the Kelani river, which flows to the Indian Ocean through the capital Colombo, amid fears that it was about to burst its banks.
+
+"The residents who are living along the Kelani should evacuate to high ground within six hours," the DMC said.
+
+DMC officials said the monsoon had been expected last night and ended a prolonged drought that had threatened agriculture as well as hydro power generation.
+
+The rains filled the reservoirs used for hydro power, which had hit rock bottom, raising concerns of power shortage in June.
+
+But officials said most reservoirs were now so full they were in danger of spilling over and causing dangers of flooding to people living downstream."
+=> LKA 0.9467071890830994 (Sri Lanka -> Democratic Socialist Republic of Sri Lanka)
+=> AUS 0.1752518117427826
+=> LKA 0.9596210718154907 (Colombo -> Colombo District)
+=> LKA 0.9467071890830994 (Sri Lanka -> Democratic Socialist Republic of Sri Lanka)
+=> LKA 0.9467071890830994 (Sri Lanka -> Democratic Socialist Republic of Sri Lanka)
+=> LKA 0.9596210718154907 (Colombo -> Colombo District)
+=> IND 0.2583928108215332
+=> LKA 0.9596210718154907 (Colombo -> Colombo District)
+
+4: "In parched Sri Lanka, biggest shortage is of water policy: experts - Reuters"
+=> LKA 0.9516947865486145 (Sri Lanka -> Democratic Socialist Republic of Sri Lanka)
+
+4: "MAHASENPURA, Sri Lanka (Thomson Reuters Foundation) - In this village in southern Sri Lanka’s Hambantota District, water sales are big business.
+
+Beset by a prolonged dry spell and day-time temperatures reaching above 36 degrees Celsius (97 degrees Farenheit), the village has seen all of its wells run dry.
+
+Water arrives once every three days in the form of a free government tanker, but it’s not always enough to last. Buying a tanker of water privately costs 5,000 rupees ($34), more than most people can pay.
+
+Instead the village’s farmers and traders buy their water in one-liter bottles from small-scale vendors who charge four to 10 rupees a liter (less than one U.S. cent) for drinking water brought from about 30 kilometers away.
+
+“We buy drinking water, and try to use other sources for cooking and washing,” said Sarath Mahanama, one villager. Those other sources include the muddy puddle left in the bottom of a nearly empty nearby water reservoir.
+
+Mahasenpura is not alone in its shortages. Nine districts in Sri Lanka’s Southern, Northern, North Eastern and southeastern Uva provinces have been hit by drought. According to the national Disaster Management Center, by mid-October over 875,000 people were being provided with government tanker water in these areas.
+
+The worst hit area, where over 160,000 people are currently dependent on water brought in from outside, is north-central Polonnaruwa District.
+
+“This is what we undergo every year. After the floods, there will be a drought and we are almost dying of thirst,” said Tissa Poddibanda, a villager from the Lankapura area.
+
+Lankapura is one of the worst-affected sites in the country, with close to 30,000 persons waiting for transported water.
+
+DROUGHT TO FLOODS
+
+As the weather becomes more extreme, Sri Lanka finds itself increasingly in a debilitating pattern of alternating between drought and floods – both of which can lead to shortages of clean water.
+
+In May, large areas of the country were flooded which caused damages of more than $3 billion, according to the Finance Ministry. Three months later drought hit.
+
+While weather experts and policy makers increasingly see the worrisome pattern, potentially effective national interventions are not yet in place, experts say.
+
+Today, in some drought-hit areas of Sri Lanka, for instance, water remains in storage dams but officials are reluctant to release it, fearing there will not be enough irrigation water for farmers to plant in the next growing season that starts in November.
+
+The Parakarama Samudraya, the largest reservoir in northern Polonnaruwa District, is currently at about 50 percent of capacity, officials say. But government irrigation officials say they don’t want to release the waters – and the next wave of heavy rains is expected only in mid-November, with the onset of the Northeast monsoon season.
+
+As competition for water grows, better cooperation is needed between the various government agencies handling water to balance the needs of farmers, hydropower suppliers and household users, said S.L. Weerasinghe, director-general of the national irrigation department.
+
+“Right now there is very little coordination between various entities handling water, from power to agriculture. We need a much more cohesive water management policy to safely release water stored for agriculture,” Weerasinghe said.
+
+‘NOT PREPARED’
+
+Lack of public awareness about the extent of the country’s water problems – and how they might be better managed – is another problem, water management experts say.
+
+“We are not prepared to meet these impacts” of climate change, said Kusum Athukorala, who heads the Sri Lanka Water Partnership, a non-profit national organization working on water management.
+
+She said that since Sri Lanka’s devastating 2004 tsunami the island has upgraded and strengthened its disaster response capacity but hardly any work had been done on preparing for disasters and building public awareness about them.
+
+Villagers such as Poddibanda, who are the mercy of changing rainfall patterns, have had little help in learning to manage water better, though it is crucial to their economic well being, experts say.
+
+Poddibanda, like most farmers in water-short Lankapura, waits until he believes rains are close to arriving to prepare his paddy rice plot for cultivation – and he expects the government to provide free irrigation water, irrespective of rain and reservoir levels.
+
+He said he has not responded to government requests for farmers to break with tradition and plant when water is available, rather than at traditional times.
+
+“I don’t know how to do that,” Poddibanda admitted.
+
+Athukorala said a sustained public awareness campaign is needed to build community knowledge about water management, and a national water management policy is needed to coordinate water planning among sectors such as power, agriculture, weather, irrigation and disaster management.
+
+In addition, “we have to take care of each spring, each river, each well. You do preventive medicine and spend less on curative medicine,” she urged."
+=> LKA 0.9467071890830994 (Sri Lanka -> Democratic Socialist Republic of Sri Lanka)
+=> LKA 0.3610415458679199
+=> LKA 0.9203834533691406 (Hambantota -> Hambantota District)
+=> LKA 0.3610415458679199
+=> GHA 0.17919239401817322
+=> RUS 0.7991296052932739 (Uva -> Uva)
+=> LKA 0.9203834533691406 (Polonnaruwa -> Polonnaruwa District)
+=> LKA 0.9203834533691406 (Lankapura -> Lankapura)
+=> LKA 0.9467071890830994 (Sri Lanka -> Democratic Socialist Republic of Sri Lanka)
+=> LKA 0.9467071890830994 (Sri Lanka -> Democratic Socialist Republic of Sri Lanka)
+=> LKA 0.9203834533691406 (Polonnaruwa -> Polonnaruwa District)
+=> USA 0.5757890939712524
+=> LKA 0.3610415458679199
+=> LKA 0.25398701429367065
+=> LKA 0.25398701429367065
+=> LKA 0.9203834533691406 (Lankapura -> Lankapura)
+
+5: "Afghanistan: Drought - 2018-2019 - ReliefWeb"
+=> AFG 0.9516947865486145 (Afghanistan -> Islamic Republic of Afghanistan)
+
+5: "La Niña has had a devastating effect on this year’s planting season, with a rain, snow and sleet deficit of 70 per cent prevailing across most of the country. With last year’s wheat production already reported to be 57 per cent below the five-year average, the 2018 harvest is forecast to be even lower: down from 4.2 million metric tons to 3.5 million metric tons. (OCHA, 25 Apr 2018)
+
+Forecasts indicate below-average to average precipitation for the remaining weeks of the spring wet season. Along with cumulative precipitation deficits, the below-average forecast is reflective of a low frequency of storms entering the region, increasing the risk for extended periods of dryness that could impact agricultural production. (FEWS NET, 4 May 2018)
+
+In the past week, another 120,000 people have arrived in Qala-e-Naw City, Badghis, due to the drought. In Kandahar, assessment teams verified the arrival of 2,800 drought-displaced people from Badghis and Ghor and 1,400 in the district centre of Maiwand, Kandahar. The total displacement due to the drought has reached a total of 275,000 people, exceeding the number of people displaced by conflict in 2018 by 52,000 people. In Qala-e-Naw, partners are ramping up assistance across all sectors and are deploying additional staff, though the gaps remain significant. Further, WFP plans to further scale up food assistance in areas of origin to allow families to return to their villages, reaching up to 100 per cent of the population in the most affected districts. In Hilmand Province, IRC started a new project to assist 2,100 drought affected people. (OCHA 9 Sep 2018)
+
+Badghis, Balkh, Faryab, Jawzjan, Hilmand, Nimroz, Uruzgan, Kubduz, Takhar, Herat, Ghor and Farah are among the worst affected provinces...The government launched a USD 100 million appeal in mid-April through MAIL for immediate livestock protection for an initial two months of assistance for fodder/feed support and an overall demand of USD 550 million for a 10 months fodder / feed support throughout the 34 provinces of Afghanistan. (IFRC, 16 May 2018)
+
+In the 20 provinces most affected by the drought, nearly 15 million people rely on farming, livestock or labour opportunities in agriculture. Of these, an estimated 2 million people will become severely food insecure due to the drought. Humanitarian partners are ramping up their response across the country...trying to reach 1.4 million of the most vulnerable girls, boys, women and men struck by the drought. Partners urgently need $115 million; the majority of this amount will provide food support to help families through the lean season and to provide them with drinking water for six months. (OCHA, 25 May 2018)
+
+The Humanitarian Response Plan (HRP) has been revised to to include response to the drought and now calls for $547 million. The additional funding will allow humanitarian partners to incorporate assistance to 1.4 million people mostly affected by the drought..
+
+Food security outcomes in the agropastoral areas are worse than is typical during the spring and summer months. Livestock productivity and body conditions are below normal levels in many areas due to very poor rangeland conditions, leading to low income from livestock sales and limited household availability of livestock products. Most rangeland areas have received well below average rainfall amounts, except for localized parts of western, southwestern, and southeastern provinces. (FEWS NET, 31 May 2018)
+
+Although several significant precipitation events during late spring helped alleviate dryness across the country, late rainfall was not sufficient to mitigate seasonal dryness in many parts of the country, which is most severe in the northwest but also significant across much of the north, northeast, southwest and central provinces. Field reports confirm that area planted for rainfed wheat is less than that of last year due to dry soil conditions and the use of extended areas for grazing, while a significant proportion of planted rainfed areas may have reduced yields due to dryness. (FEWS NET, 6 Jun 2018).
+
+The intense drought between April and September is expected to further aggravate the already poor malnutrition status within the 20 affected provinces, and the impact may extend to December. As a result, an increase in acute malnutrition caseload between July and December 2018 is expected. In addition, the severity of acute malnutrition among children under five may get worse, resulting in cases that are more complicated. As of 19 July, it is reasonable to assume that the increase in magnitude and severity of acute malnutrition and disease will stretch the capacity of health facilities to provide treatment, and that in the medium to long-term, children will face heightened vulnerability to morbidity and mortality. (WHO, 19 Jul 2018).
+
+In Hirat City, Hirat, humanitarian teams identified more than 51,000 people who have recently migrated to the city from drought-affected areas in neighbouring Badghis and Ghor provinces. The families are living in dozens of sites on the outskirts of the cities in makeshift shelters. In Qala-e-Naw, Bagdhis, teams identified nearly 7,000 people who have moved from rural areas to the provincial capital due to the drought. Cash distributions have started for these displaced families. The Government has distributed wheat grain to 15,000 families in four districts of Badghis, and WFP is preparing to distribute 1,250 metric tons of food in two districts of the same province. (OCHA, 23 Jul 2018)
+
+Poor households in the northern areas will be the most affected by the drought due to reduced household wheat stocks and income from on-farm labor where food consumption deficits will continue through the next harvest (Spring 2019). Poor households in central areas of the country dependent on remittances from migrant workers in Iran are expected to see a decrease in remittances and further weakening of the Iranian rial (IRR) against the U.S. Dollar (USD) and Afghani (AFN) to drive low incomes. (FEWS NET, 31 Jul 2018)
+
+As of 6 August, approximately 4,000 people arrived in Qala-e-Naw, Badghis, during the past week, reportedly displaced by drought from Muqur district. In Kunduz Province, more than 10,000 people have reportedly been displaced between different districts due to the drought. (OCHA, 6 Aug 2018)
+
+As of 12 August, some 1,400 families reportedly arrived in the centre of Abkamari district, Badghis, from villages affected by the drought in the district. In Farah City, Farah, assessment teams identified nearly 600 people displaced by the drought from within the province. Further, around 280 displaced people were identified as having been displaced from their villages in Shahrak district, Ghor, due to the drought. In Qala-e-Naw, Badghis, authorities designated a new site for 1,700 families who arrived recently in the city due to the drought. (OCHA, 12 Aug 2018)
+
+The drought continues to force people from their rural homes to the urban centres in Badghis, Ghor and Hirat provinces where their number surpassed 100,000 since May, according to humanitarian partners. The situation of drought-induced IDPs in Hirat city, Hirat remains dire. In the past week, six children reportedly died in the informal sites due to sickness, in a fire accident and at birth. WASH, health and protection services on the sites are picking up, but there are large gaps notably of emergency shelter. DRC-DDG and UNICEF have started protection monitoring on sites housing some 35,000 people. (OCHA, 19 Aug 2018)
+
+An estimated 275,000 people have been displaced as a result of the drought in Afghanistan. Newly displaced people arriving in Hirat during the last week have been reported, but not confirmed. In response to the drought, WFP started food distributions for 47,000 people in rural areas of Ghor Province. (OCHA, 17 Sep 2018)
+
+In the first half of September, an estimated 120,000 people have been displaced from rural areas of Badghis to Qala-e-Naw as a result of drought. As of 20 September, an estimated 253,600 people are currently displaced from drought affected areas across the Western Region. A further 28,000 people displaced by the drought have returned to their homes in Muqur district of Badghis, in the last two weeks, upon assurances of food distributions in their home villages. Existing response capacity at more than a dozen sites in Qala-e-Naw and its surroundings is limited: around 42,000 people have insufficient access to safe drinking water and over 130,000 people have no access to sanitation facilities with people living in makeshift shelters. (OCHA, 24 Sep 2018)
+
+Due to drought, high levels of food assistance needs will persist through the start of the lean season. Crisis (IPC Phase 3) outcomes are present throughout Afghanistan due to declining purchasing power, disruption of normal livelihoods due to conflict, and poor rainfed staple performance and will contribute to the increased food assistance needs as compared to recent years. The worst-affected households will likely experience Emergency (IPC Phase 4) as large food deficits emerge with the onset of winter in. (FEWS NET, 30 Sep 2018)
+
+On 16 October, [UN] Afghanistan Humanitarian Fund...and [CERF] have allocated $34.6 million in emergency aid to support 2.2 million people affected by a severe drought. With these funds, 7 national NGOs, 15 international NGOs and 4 UN agencies will distribute food and seeds, maintain primary health services, provide emergency shelter, safe drinking water, improve hygiene and sanitation, treat severe malnutrition, and help farmers protect their livestock. (OCHA, 16 Oct 2018)
+
+Crisis (IPC Phase 3) outcomes are present throughout Afghanistan due to declining purchasing power, disruption of normal livelihoods due to conflict, and poor rainfed staple performance and will contribute to the increased food assistance needs as compared to recent years. Poor household dependent on rainfed wheat production, particularly in northern, northeastern, and northwestern areas, are expected to experience difficulty meeting consumption requirements until next year’s spring harvest. The worst-affected households will likely experience Emergency (IPC Phase 4) as large food deficits emerge with the onset of winter (IFRC, 1 Nov 2018).
+
+According to the latest IPC report, Badghis is among the three provinces with IPC Phase 4 (emergency), whereas, Ghor, Hirat and Farah provinces are classified as IPC phase 3 (crisis). The most affected provinces with large-scale displacement are Badghis and Hirat provinces which accounts 74% of the total IDPs (OCHA, 19 Nov 2018).
+
+In October-November, WFP reached nearly 1.6 million drought-affected people with food assistance in all 20 affected provinces, providing more than 27,000 mt of food and transferring over US$1.45 million cash assistance to the affected people. Meanwhile, prepositioning of food and nutrition supplies continues in remote areas in nine provinces, to cover the needs of 499,000 people (3,400 metric tons prepositioned in the last week of November). (OCHA, 9 Dec 2018)
+
+During 17 - 23 December, as part of the ongoing full-scale drought response, WFP and its partners reached 104,500 drought-affected people both in rural and urban areas of eight provinces with 720 (mt) of food and US$180,000 in cash transfers to cover food needs. In the first three weeks of December, WFP and partners assisted nearly 450,000 drought-affected people with some 3,750 (mt) of food and US$540,000 in cash transfers. (OCHA, 23 Dec 2018)
+
+As part of the ongoing full-scale drought response, WFP and its partners reached 162,000 drought-affected people both in rural and urban areas of eight provinces during 8 - 14 January 2019. This included food for more than 40,000 people in informal settlements in and around Qalae-Naw in Badghis, who were displaced due to the drought. In total, WFP and partners distributed more than 4,400 metric tons (mt) of food in Badakhshan, Badghis, Ghor, Helmand, Herat, Samangan, Sar-e-Pul and Takhar provinces. (OCHA, 14 Jan 2019)
+
+Afghan Red Crescent Society..conducted an emergency needs assessment in nine drought affected provinces in December 2018 and January 2019. The emergency needs assessment report indicated that the priority needs of the affected population, who are staying in rural areas and IDP camps, are food, water, health care and livelihood support. Almost 60 to 70 per cent of the water points are now dry. Most of the affected communities in province of the country have very low latrine coverage. The water treatment is equally low, at less than 10 per cent. (IFRC, 17 Mar 2019)
+
+As of 31 March, humanitarian partners have reached 4.4 million people affected by drought with support, 91 per cent of those targeted for assistance. Of those reached, 438,600 people are in areas of displacement, while the remainder are in drought-affected rural areas. (OCHA, 23 Apr 2019)
+
+Food security outcomes across the country are most likely to continue to gradually improve as the main harvest begins in late May/early June. As a result, Stressed (IPC Phase 2) outcomes are most likely to emerge. Crisis (IPC Phase 3) outcomes are also most likely in areas still recovering from the drought with continued conflict preventing access to agricultural activities. (FEWS Net, 31 May 2019)
+
+As of 30 April, humanitarian partners have reached 4.8 million people affected by drought. Of those reached, 405,000 people are in places of displacement, while the remainder are in drought-affected rural areas. (OCHA, 29 May 2019)
+
+According to WFP, the drought support is scaling down starting in April, which will transition to seasonal support at the end of June. (WFP, 31 May 2019).
+
+As of 31 May, humanitarian partners have reached 4.9 million people affected by drought. Of those reached, 450,600 people are in places of displacement, while the remainder are in drought-affected rural areas. (OCHA, 23 Jun 2019)
+
+Food security outcomes are anticipated to generally improve across the country from June to September 2019, due to the above average wheat harvest, favorable livestock prices, and high demand for agriculture labor during the harvest. Most poor households across the country are likely to face Minimal (IPC Phase 1) and Stressed (IPC Phase 2). Crisis (IPC Phase 3) outcomes are likely to continue in displaced households, undocumented returnees and areas of Badghis province which was significantly affected by last year’s drought and conflict. (FEWS Net, 29 Jun 2019)
+
+As of 8 July 2019, the impact of drought has heavily influenced population movement within Afghanistan and caused the displacement of 287,000 people primarily from the north-western and western regions. The sudden influx of over a quarter million people into the outskirts of Herat has led to the emergence of 19 vast and sprawling informal settlements. The food security and livelihoods situation has significantly deteriorated over the past months, driven mostly by the severe drought in 2018. An estimated 13.5 million people are severely food insecure and require emergency assistance. Twenty provinces of Afghanistan are food insecure and identified as having acute humanitarian food needs, health and WASH issues and their livelihoods. (IFRC, 9 July 2019)
+
+Stressed (IPC Phase 2) and Minimal (IPC Phase 1) outcomes are expected to be widespread as a result of the harvest and many households access own foods. However, areas of Badghis where many households are still recovering from the drought, undocumented returnees, and displaced households are expected to continue to be in Crisis (IPC Phase 3). As winter starts in October/November across much of the country, Crisis (IPC Phase 3) and Stressed (IPC Phase 2) outcomes are most likely to emerge as many households are expected to rely on markets with below average incomes. (FEWS Net, 31 Jul 2019)
+
+In reviewing the situation, [FAO] stated that the deteriorating food security and livelihood situation has continued into in the latter half of 2019, driven mostly by the worst drought in a decade last year. The severe drought has affected more than two-thirds of the country and destroyed the agriculture sector. Despite reports of good harvests for 2019, FAO predicted that it will not be enough to alleviate food insecurities in the region. (FAO, 16 Sep 2019)
+
+Between August and October 2019, it is estimated that 10.23 million people (33% of the total population) are in severe acute food insecurity and require urgent humanitarian action. These include around 7.79 million people in a crisis situation (IPC Phase 3) and 2.43 million people in an emergency situation (IPC Phase 4). Around 10.37 million people are also in a stressed situation (IPC Phase 2) and require livelihood support. During the projection analysis period, from November 2019 to March 2020, around 11.30 million people (37% of the total population) are estimated to be likely to experience severe acute food insecurity, out of which an estimated 8.6 million people likely be in an emergency situation (IPC Phase 4). Furthermore around 9.45 million people will be in a stressed situation (IPC Phase 2). (IPC, 30 Sep 2019)
+
+Conflict and insecurity continue to disrupt livelihoods across most of the country with over 380,000 people displaced since the start of 2019. Additionally, over 440,000 people have returned from Iran and Pakistan to date in 2019. Most of the returned and internally displaced populations are expected to be in Crisis (IPC Phase 3) as these households have limited ability to access labor markets. Moreover, poor households impacted by weak labor markets, and below average remittances in higher elevated areas of the country remain in Crisis (IPC Phase 3). The rest of the country is in Stressed (IPC Phase 2) as many households continue to consume own foods, although have below average incomes. (FEWS Net, 26 Nov 2019)
+
+Reports state that humanitarian food assistance will be necessary through the upcoming winter to mitigate food consumption gaps and prevent malnutrition in Afghanistan, especially as up to 85 percent of the country’s food comes from irrigated farming. It is predicted that, due to the effects of the drought, the number of people experiencing crisis and emergency levels of food insecurity will rise to 14.3 million people between the period of November 2019 and March 2020. This is an increase by 113 percent over the same period a year previous, as per Flowminder 2020 population projections. (OCHA, 20 Dec 2019).
+
+Many millions of people are still reeling from the crippling effects of the 2018-19 drought and struggling to recover. The cumulative impacts of decades of war, combined with recurrent natural disasters and chronic poverty, have resulted in crippling debt and depleted people’s capacity to cope with repeated shocks. Over 14 million people are projected to experience crisis and emergency levels of food insecurity, in the first quarter of 2020. Malnutrition is soaring, with over 3 million children and women acutely malnourished, requiring specialised nutrition supplies and medicines. (OCHA, 7 Jan 2020)
+
+According to the IOM, almost 11,000 undocumented Afghans returned from Iran and Pakistan, and 700 people have been newly displaced by conflict in January 2020. These populations are particularly vulnerable to food insecurity as they have lost their typical livelihood activities and have limited ability to enter the labor markets. Many poor households across the country are facing food consumption gaps as households have depleted their food stocks and face difficulty accessing income to purchase food. Many of these households are in the Central Highlands and Northeastern parts of the country with these areas facing Crisis (IPC Phase 3) outcomes. Stressed (IPC Phase 2) outcomes are present in areas where households have access to remittances or labor opportunities although at below average levels. As winter progresses, more households are expected to rely on markets for food with below average purchasing power. As a result, Crisis (IPC Phase 3) outcomes are expected to emerge across parts of the country. (FEWS Net, 3 Feb 2020)"
+=> USA 0.26024454832077026
+=> AFG 0.9589509963989258 (Kandahar -> Kandahār)
+=> AFG 0.8230866193771362 (Maiwand -> Khwājah Aḩmad Maywandī)
+=> AFG 0.9589509963989258 (Kandahar -> Kandahār)
+=> AFG 0.8087751865386963 (Qala-e-Naw -> Qala i Naw)
+=> AFG 0.8230866193771362 (Hilmand -> Helmand)
+=> AFG 0.8230866193771362 (Jawzjan -> Wilāyat-e Jowzjān)
+=> AFG 0.8230866193771362 (Hilmand -> Helmand)
+=> AFG 0.8230866193771362 (Nimroz -> Wilāyat-e Nīmrōz)
+=> AFG 0.8230866193771362 (Uruzgan -> Uruzgān)
+=> AFG 0.8230866193771362 (Kubduz -> Kunduz)
+=> AFG 0.38682085275650024
+=> AFG 0.9589509963989258 (Herat -> Herāt)
+=> AFG 0.9428762197494507 (Afghanistan -> Islamic Republic of Afghanistan)
+=> USA 0.5525472164154053
+=> YEM 0.27866870164871216
+=> AFG 0.8087751865386963 (Qala-e-Naw -> Qala i Naw)
+=> IRN 0.9403665065765381 (Iran -> Islamic Republic of Iran)
+=> AFG 0.8087751865386963 (Qala-e-Naw -> Qala i Naw)
+=> AFG 0.18786776065826416
+=> AFG 0.8230866193771362 (Kunduz -> Kunduz)
+=> NER 0.7477830648422241 (Abkamari -> Ouamé Balamari)
+=> AFG 0.8087751865386963 (Farah City -> Darah-ye Chitī)
+=> AFG 0.38682088255882263
+=> AFG 0.8087751865386963 (Qala-e-Naw -> Qala i Naw)
+=> AFG 0.9428762197494507 (Afghanistan -> Islamic Republic of Afghanistan)
+=> YEM 0.27866870164871216
+=> AFG 0.8087751865386963 (Ghor -> Wilāyat-e Ghōr)
+=> UKR 0.6940534114837646 (Western -> Southwest Economic Region)
+=> AFG 0.8230866193771362 (Muqur -> Āb-e Istādah-ye Muqur)
+=> AFG 0.8087751865386963 (Qala-e-Naw -> Qala i Naw)
+=> AFG 0.9428762197494507 (Afghanistan -> Islamic Republic of Afghanistan)
+=> AFG 0.9428762197494507 (Afghanistan -> Islamic Republic of Afghanistan)
+=> AFG 0.8087751865386963 (Qalae-Naw -> Qala i Naw)
+=> AFG 0.8230866193771362 (Badakhshan -> Badakhshān)
+=> AFG 0.9428762197494507 (Helmand -> Helmand)
+=> AFG 0.9589509963989258 (Herat -> Herāt)
+=> AFG 0.38682085275650024
+=> AFG 0.9428762197494507 (Afghanistan -> Islamic Republic of Afghanistan)
+=> AFG 0.9589509963989258 (Herat -> Herāt)
+=> AFG 0.9428762197494507 (Afghanistan -> Islamic Republic of Afghanistan)
+=> IRN 0.9403665065765381 (Iran -> Islamic Republic of Iran)
+=> PAK 0.5525472164154053
+=> AFG 0.9428762197494507 (Afghanistan -> Islamic Republic of Afghanistan)
+=> IRN 0.298693984746933
+=> IRN 0.9403665065765381 (Iran -> Islamic Republic of Iran)
+=> PAK 0.5525472164154053
+=> BRA 0.6940534114837646 (Highlands -> Brazilian Highlands)
+
+6: "Afghanistan floods kill 32, worsen already desperate situation - Reuters"
+=> AFG 0.9516947865486145 (Afghanistan -> Islamic Republic of Afghanistan)
+
+6: "HERAT, Afghanistan (Reuters) - Flash floods have killed at least 32 people in western Afghanistan, destroyed homes and swept through makeshift shelters that housed displaced families, a government official said on Saturday.
+
+Slideshow ( 2 images )
+
+Flooding caused by heavy rains started spreading on Thursday and left a trail of devastation across seven provinces, said Hasibullah Shir Khani, a spokesman for Afghanistan’s National Disaster Management Authority.
+
+Another 12 people were missing and more than 700 houses were destroyed or severely damaged, he added.
+
+The floods worsen an already desperate situation. Hundreds of thousands of people were displaced in the region by last year’s severe drought and the 17-year-long war with the Taliban.
+
+Floods in early March caused further destruction and put this year’s wheat harvest at risk.
+
+“My house and my farmland have been destroyed by floods. If you go and see the destruction it makes you cry,” said Shir Ahmad, who lives in a village in Herat province, which borders Iran.
+
+Children waded through muddy, knee-deep floodwaters that flowed through tent camps for displaced people after the rain stopped. Some families strung salvageable clothes and bedding to dry.
+
+Floods have destroyed hundreds of homes, some historic sites, thousands of acres of farmland, bridges and highways, said Jilani Farhad, a spokesman for the province.
+
+Floods are a common occurrence in Afghanistan, although not usually this severe. The country has little infrastructure, such as ditches and sewers, to manage water run-off from rain or melting snow.
+
+“There is huge destruction caused by floods,” said Ahmad Jawed Nadem, head of refugees and repatriation for Herat. In one area, he said he saw more than 200 destroyed houses.
+
+In Herat alone, eight people were killed, said Dr. Abdul Hakim Tamana, head of public health for the province.
+
+“They had the drought problem, and the floods and the conflict. They are very poor people and they lose all they have,” the Afghan Red Crescent Society’s secretary general Nilab Mobarez said.
+
+“It’s not as simple as they will go on with their lives.”
+
+World Vision said it appeared tens of thousands of Afghans were affected. Some residents of Badghis province were calling it the worst storm in 20 years, it said.
+
+Iran has also been flooded by torrential rains, overwhelming emergency services in some areas."
+=> AFG 0.9466437101364136 (Afghanistan -> Islamic Republic of Afghanistan)
+=> AFG 0.9466437101364136 (Afghanistan -> Islamic Republic of Afghanistan)
+=> AFG 0.9466437101364136 (Afghanistan -> Islamic Republic of Afghanistan)
+=> AFG 0.9591211080551147 (Herat -> Herāt)
+=> IRN 0.939127504825592 (Iran -> Islamic Republic of Iran)
+=> AFG 0.9466437101364136 (Afghanistan -> Islamic Republic of Afghanistan)
+=> AFG 0.9591211080551147 (Herat -> Herāt)
+=> AFG 0.9591211080551147 (Herat -> Herāt)
+=> IRN 0.939127504825592 (Iran -> Islamic Republic of Iran)
+
+7: "Iran flooding kills 70 after record rainfalls - CNN"
+=> IRN 0.9516947865486145 (Iran -> Islamic Republic of Iran)
+
+7: "(CNN) Seventy people have died in flooding in Iran after record rainfalls began saturating parts of the country last month, state-run media reported.
+
+Deaths have been recorded across 13 provinces, with the highest casualties in Fars, Lorestan, Golestan and Hamedan, state-run IRNA quotes the head of Iran's Coroner's Office, Ahmad Shojaei, as saying.
+
+"Over 140 rivers have burst their banks and some 409 landslides have been reported in the country, it reported , adding that 78 roads had been blocked and 84 bridges in flood-stricken areas affected.
+
+Officials on Saturday warned residents in the province of Khuzestan of rising water levels and urged them to take evacuation notices seriously, IRNA reported.
+
+The International Federation of Red Cross and Red Crescent said it was helping thousands of people affected by the flooding.
+
+"Red Crescent volunteers and staff have evacuated hundreds of people to safety, and have distributed food and items such as tents, blankets and health kits to tens of thousands of people," the organization's Middle East and North Africa director, Sayed Hashem, said.
+
+Residents take to their rooftops in the village of Bamdezh in Khuzestan province April 5,.
+
+Iran accuses US of hindering aid
+
+On April 2, US Secretary of State Mike Pompeo issued a statement extending condolences to the victims of the flooding in Iran and blaming its government for the disaster.
+
+A helicopter carrying aid in the flooded village of Bamdezh, April 5.
+
+"These floods once again show the level of Iranian regime mismanagement in urban planning and in emergency preparedness. The regime blames outside entities when, in fact, it is their mismanagement that has led to this disaster," he said. "The United States stands ready to assist and contribute to the International Federation of Red Cross and Red Crescent Societies, which would then direct the money through the Iranian Red Crescent for relief."
+
+"It seems the US Secretary of State is unaware of the mismanagement of natural disasters in the US over the past two years, and hence opines -- in an unprofessional, interventionist and demagogic manner -- on Iran's management of the horrific and unprecedented floods which simultaneously afflicted 24 provinces," Zarif said, before referencing Hurricanes Harvey, Michael and Florence and Maria."
+=> IRN 0.9462096691131592 (Iran -> Islamic Republic of Iran)
+=> IRN 0.8369885683059692 (Fars -> Fars)
+=> IRN 0.9035243988037109 (Lorestan -> Ostān-e Lorestān)
+=> IRN 0.9035243988037109 (Golestan -> Golestān)
+=> IRN 0.9462096691131592 (Iran -> Islamic Republic of Iran)
+=> IRN 0.9035243988037109 (Khuzestan -> Khuzestan)
+=> IRN 0.9035243988037109 (Bamdezh -> Īstgāh-e Rāh Āhan-e Bām-e Dezh)
+=> IRN 0.9035243988037109 (Khuzestan -> Khuzestan)
+=> IRN 0.9462096691131592 (Iran -> Islamic Republic of Iran)
+=> IRN 0.9462096691131592 (Iran -> Islamic Republic of Iran)
+=> IRN 0.9035243988037109 (Bamdezh -> Īstgāh-e Rāh Āhan-e Bām-e Dezh)
+=> VIR 0.7774181365966797 (United States -> Virgin Islands of the United States)
+=> IRN 0.9462096691131592 (Iran -> Islamic Republic of Iran)
+
+8: "Northern Iranian cities suffer floods on Nowruz Holiday - Iran Human Rights Monitor"
+=> No geolocation found.
+
+8: "As people across Iran are celebrating the Persian New Year, Nowruz, heavy rains and flooding have been pounding Golestan province in northern Iran since Sunday, uprooting trees and causing serious damage to the province’s facilities and power lines.
+
+Heavy rainfall caused overflow of the Tajan River, in northern province of Mazandaran, forcing people to evacuate the area in central parts of city of Sari.
+
+Reports from state-run media indicate that roads leading to 70 villages in Golestan and more than 200 in Mazandaran have been flooded. 20 villages in Golestan have been evacuated.
+
+According to the Mazandaran Crisis Management Department, the floods affected about 200 villages in the province, causing damage to 1,500 homes in urban areas and 30 to 50% of homes in rural areas. In addition, dozens of communication bridges were destroyed or damaged in neighborhoods and villages.
+
+The head of Iran’s Crisis Management Organization reported that 40 villages in Golestan province still have no electricity.
+
+According to Mojtaba Jamali, the Director General of the Golestan Province Crisis Management, the town of Agh Ghola in Golestan was facing the most severe problems.
+
+Two people died after a landslide in Golestan in the past few days, Jamali announced.
+
+Previously the minister of energy had reported that 360 villages in Golestan province and 193 villages in Mazandaran province had lost electricity.
+
+Golestan Crisis Management Department announced on Thursday that “currently over 10 villages in this province are under water.
+
+Videos of the recent floods show how the locals are providing help for each other when regime officials are refusing to do so.
+
+Heavy floods hit vast regions of Golestan province, northern #Iran
+
+Officials have failed to address the crisis.#40YearsofFailure pic.twitter.com/UZEu3MbsbG — IRAN HRM (@IranHrm) March 22, 2019
+
+According to the state-run Khabar Online Website, Iran floods have significantly increased in the past year with 552 cases taking place in the course of just 4 years.
+
+The reason behind Iran’s increasing floods is the deforestation of more 30% of the northern forests, the destruction of vegetation in pastures and fields, the lack of levees, and flood walls in flood areas, the lack of river dredging, the unnatural gathering of heavy sediments behind dams, broken dams, the unconventional building of villas in agricultural land which is mostly carried out by those affiliated with the government, and the construction on river banks and river areas.
+
+Deforestation is carried out in full by the government with “33% of forests in Iran having been destroyed”, according to state-run media. That means that the 18 million hectares of Iran’s forests have shrunk to just 12.4 million.
+
+Last October Iran floods which hit the three provinces of Northern Khorasan, Mazandaran and Gilan provinces killed eight people.
+
+The 2017 Northwest Iran floods which affected the provinces of East Azerbaijan, West Azerbaijan, and Kurdistan on April 14, 2017, claimed the lives of more than 40 people."
+=> IRN 0.9441435933113098 (Iran -> Islamic Republic of Iran)
+=> IRN 0.8889740705490112 (Golestan -> Golestān)
+=> IRN 0.9441435933113098 (Iran -> Islamic Republic of Iran)
+=> THA 0.854092538356781 (Tajan -> Ban Khlong Tham Taban)
+=> IRN 0.8889740705490112 (Mazandaran -> Ostān-e Māzandarān)
+=> IRN 0.8726769685745239 (Sari -> Sari)
+=> IRN 0.8889740705490112 (Golestan -> Golestān)
+=> IRN 0.8889740705490112 (Mazandaran -> Ostān-e Māzandarān)
+=> IRN 0.8889740705490112 (Golestan -> Golestān)
+=> IRN 0.9441435933113098 (Iran -> Islamic Republic of Iran)
+=> IRN 0.8889740705490112 (Golestan -> Golestān)
+=> IRN 0.8889740705490112 (Golestan -> Golestān)
+=> IRN 0.8889740705490112 (Golestan -> Golestān)
+=> IRN 0.8889740705490112 (Golestan -> Golestān)
+=> IRN 0.8889740705490112 (Mazandaran -> Ostān-e Māzandarān)
+=> IRN 0.8889740705490112 (Golestan -> Golestān)
+=> IRN 0.9441435933113098 (Iran -> Islamic Republic of Iran)
+=> IRN 0.9441435933113098 (Iran -> Islamic Republic of Iran)
+=> IRN 0.9441435933113098 (Iran -> Islamic Republic of Iran)
+=> IRN 0.9441435933113098 (Iran -> Islamic Republic of Iran)
+=> IRN 0.9441435933113098 (Iran -> Islamic Republic of Iran)
+=> IRN 0.9441435933113098 (Iran -> Islamic Republic of Iran)
+=> IRL 0.2725045084953308
+=> IRN 0.8889740705490112 (Mazandaran -> Ostān-e Māzandarān)
+=> IRN 0.5157518982887268
+=> IRN 0.826050877571106 (East Azerbaijan -> East Azerbaijan)
+=> IRN 0.826050877571106 (West Azerbaijan -> West Azerbaijan Province)
+=> IRN 0.826050877571106 (Kurdistan -> Ostān-e Kordestān)
+
+9: "Eastern Canada Grapples With Extreme Flooding - The New York Times"
+=> No geolocation found.
+
+9: "MONTREAL — Thousands of residents in Quebec, Ontario and New Brunswick were evacuated from their homes after days of flooding that spurred Montreal and Ottawa to declare a state of emergency and prompted the intervention of Canada’s Armed Forces to help residents.
+
+Over the weekend, a dike was breached in Sainte-Marthe-sur-le-Lac, Quebec, a suburb west of Montreal, sending 5,000 residents fleeing to higher ground, some frantically scooping up their small children, pets and valuables as water came as high as their waists.
+
+Video footage showed a man in a life jacket in a small boat paddling down a street submerged in water. The breach startled residents, many of whom were sitting down for dinner.
+
+No one has been seriously injured in the flooding, and the urban centers in Ottawa and Montreal are largely free from danger."
+=> CAN 0.9064518213272095 (MONTREAL -> Montréal)
+=> CAN 0.9064518213272095 (Quebec -> Québec)
+=> CAN 0.9064518213272095 (Ontario -> Ontario)
+=> CAN 0.9064518213272095 (New Brunswick -> New Brunswick/Nouveau-Brunswick)
+=> CAN 0.9064518213272095 (Montreal -> Montréal)
+=> CAN 0.9064518213272095 (Ottawa -> Ottawa)
+=> CAN 0.9516947865486145 (Canada -> Canada)
+=> FRA 0.23538720607757568
+=> CAN 0.9064518213272095 (Montreal -> Montréal)
+=> CAN 0.9064518213272095 (Ottawa -> Ottawa)
+=> CAN 0.9064518213272095 (Montreal -> Montréal)
+
+10: "Flooding turns Ontario neighbourhood into island accessible only by boat - CTV News"
+=> CAN 0.8799220323562622 (Ontario -> Ontario)
+
+10: "Flooding has left about 100 people northwest of Ottawa living temporarily on an island.
+
+Sandbags protecting a neighbourhood in the Lacroix Bay area near Pembroke, Ont. were overwhelmed in recent weeks when the Ottawa River rushed in, leaving residents completely surrounded by water.
+
+Now, they can only access their homes by boat.
+
+“It’s a challenge,” resident Lynda Rose told CTV News. “We all take turns using the boat.”
+
+Rose only visits her home on weekends to drop off groceries and other supplies for her husband, who stayed back to help other residents and care for the family cat.
+
+“The army is in every day. They come in and ... make sure that we have medication -- whatever we need,” she said.
+
+The region declared a state of emergency due to the floods at the end of April. The isolated community is a mix of permanent homes and cottages.
+
+Kevin Collins said the waters just keep rising.
+
+“It will take two weeks to even go down to 2017 levels where you might be able to start using the road again,” he said.
+
+How quickly the waters recede will depend on how much it rains, and more is in the forecast.
+
+The Ottawa River Regulating Committee said on Saturday that residents of the Mattawa area could face even higher water levels this weekend. Levels are expected to peak on Saturday in Pembroke, Westmeath and Lac Coulonge.
+
+The City of Pembroke declared a state of emergency on Thursday and soldiers from a nearby base were deployed Saturday to protect homes. Soldiers worked together to build a sandbag wall at a park near the water.
+
+About 25 homes are at risk. Shawn Bergeron’s is one of them. His family built a retaining wall around their home after flooding in 2017, but now the wall is under water.
+
+“It’s very scary,” he said.
+
+Last night, the Bergerons received news that their insurance will not be renewed.
+
+“Knock on wood we don’t need it,” he said. “But it’s just a kick in the you-know-where at the wrong time.”
+
+Melting snow and heavy rainfall have triggered spring floods in communities across Ontario, Quebec and Atlantic Canada in recent weeks."
+=> CAN 0.8799220323562622 (Ottawa -> Ottawa)
+=> LCA 0.24821266531944275
+=> CAN 0.28365933895111084
+=> CAN 0.9048774242401123 (Ont -> Ontario)
+=> USA 0.9637409448623657 (Ottawa -> Ottawa County)
+=> USA 0.9221303462982178 (Mattawa -> Mattawa)
+=> CAN 0.28365933895111084
+=> IRL 0.9048774242401123 (Westmeath -> Westmeath)
+=> CAN 0.9048774242401123 (Lac Coulonge -> Lac Coulonge)
+=> USA 0.24821266531944275
+=> CAN 0.8799220323562622 (Ontario -> Ontario)
+=> CAN 0.8799220323562622 (Quebec -> Québec)
+
+11: "Kenya Flash Update No. 3: Floods | 27 November 2019 - Kenya - ReliefWeb"
+=> KEN 0.9481911659240723 (Kenya -> Republic of Kenya)
+=> KEN 0.9481911659240723 (Kenya -> Republic of Kenya)
+
+11: "HIGHLIGHTS
+
+â?¢ More than 160,000 people, including nearly 18,000 who are displaced countrywide, have been affected by floods or landslides since the onset of the short rains in October, according to the Kenya Red Cross Society (KRCS).
+
+â?¢ At least 120 people have reportedly died, including 72 people who lost their lives after a landslide buried their houses in West Pokot County in north-western Kenya, according to the Government.
+
+â?¢ Infrastructure of undetermined value, including roads and bridges, have been damaged, hampering effective humanitarian response efforts in affected areas
+
+SITUATION OVERVIEW
+
+Most parts of the country continue to experience above average rainfall since the onset of the 2019 short rains (October â?? December). While the rainsâ?? driven by the strong positive Indian Ocean Dipole (IOD)â??might result in improved pasture conditions in arid and semi-arid lands, especially Turkana, Marsabit, Isiolo, and Wajir counties, as well as recharge of surface water pans and dams, including in Masinga, Kiambere and Turkwell dams, there are also reports of overspread damage, loss of lives and livelihoods due to heavy storms. Flash and riverine floods have affected at least 31 of the 47 Kenyaâ??s counties, including in Central, Coastal, Eastern, Northern, Nyanza, Rift Valley and Western regions, and urban areas in Nairobi and Mombasa, according to the Governmentâ??s National Disaster Operation Centre (NDOC). Landslides and mudslides have been reported in Meru, Murangâ??a, Taita Taveta and West Pokot counties, according to the Kenya Red Cross Society (KRCS). Overall, more than 160,000 people, including nearly 18,000 who are displaced countrywide, have been affected by floods or landslides since the onset of the short rains in October, according to KRCS.
+
+On 22 November, landslides and mudslides in parts of West Pokot County resulted in the death of at least 72 people and displacement of more than 10,000 people, according to the County authorities. Farms, food stores and livestock were swept away, and two bridges along the Kitale-Lodwar road (Ortum) and along Sigor road (Chepera) were cut-off, leaving dozens of commuters stranded and disrupting communication networks in the area. Search and rescue efforts are still ongoing in the area and the numbers of affected population could increase in the coming days. According to the County authorities, priority needs in the area include food and shelter, medical attention, water treatment chemicals and critical non-food items.
+
+In Wajir County, floods arising from rainfall in the Ethiopian Highlands cut off all the roads leading to Bute and Gurar in Wajir North sub-county and washed away a bridge in Buna Town, impacting supplies and response in the area. Communication to Moyale and Bute was reportedly disrupted and at least 5,000 people near Buna market were displaced to higher grounds.
+
+In Garissa and Tana River counties, heavy rains on 22 and 23 November led to massive flooding in the area, exacerbated by the bursting of Tana River. On 24 November, KRCS response teams rescued 15 people who had been marooned at Hadama location in Tana North Sub-county in Tana River County. Preliminary assessments from Tana River and Garissa indicate that 624 families have been displaced. In the Central region, at least 550 people were reportedly displaced in Tigania, in Meru County.
+
+Sections of roads and bridges have been cut-off, paralyzing transport and humanitarian access in Embu, Garissa, Isiolo, Kwale, Lamu, Machakos, Makueni, Mandera, Marsabit, Meru, Mombasa, Samburu, Taita Taveta, Tana River, Trans Nzoia, Turkana and Samburu counties. The Gurdis and Botula dams in Banisain Mandera County broke their walls or banks and require urgent repairs.
+
+In Turkana, flash floods destroyed boreholes, calling for the installation of improved drainage system and relocation of people in affected residential areas to safer grounds. Public toilets and latrines have reported collapsed or are flooded in many areas, increasing the risks of disease outbreaks. Schools are closed in Trans Nzoia and Machakos counties, where several classrooms were flooded.
+
+According to the Kenya Meteorological Department, heavy rains are expected to continue across the country over the next few weeks, mainly due to the positive IOD measurements. Flood alerts have been issued especially for Coastal, Northern and Western regions of the country, with the risk of landslides and mudslides expected in parts of the Central Highlands and parts of the Rift Valley, including West Pokot, Elgeyo Marakwet and Nandi counties.
+
+Kenya was already facing increase hunger prior to the floods, with 3.1 million people projected to be in crisis and emergency levels of food insecurity since October, according to the latest report from the Integrated Food Security Phase Classification (IPC)."
+=> KEN 0.8758856058120728 (West Pokot -> West Pokot)
+=> KEN 0.9470949172973633 (Kenya -> Republic of Kenya)
+=> IND 0.21686038374900818
+=> KEN 0.9146865606307983 (Masinga -> Masinga Sub-Location)
+=> UGA 0.8825335502624512 (Turkwell -> Turkwell)
+=> CIV 0.21686038374900818
+=> KEN 0.9068928956985474 (Nyanza -> Nyanza Province)
+=> KEN 0.8758856058120728 (Rift -> Rift Valley Province)
+=> KEN 0.9470949172973633 (Nairobi -> Nairobi)
+=> KEN 0.9470949172973633 (Mombasa -> Mombasa)
+=> KEN 0.2689129710197449
+=> KEN 0.8758856058120728 (West Pokot -> West Pokot)
+=> KEN 0.8758856058120728 (West Pokot -> West Pokot)
+=> GBR 0.17460688948631287
+=> USA 0.21686038374900818
+=> GBR 0.17460688948631287
+=> KEN 0.9146865606307983 (Wajir -> Wajir)
+=> USA 0.7816418409347534 (Highlands -> North Highlands)
+=> IND 0.40445804595947266
+=> USA 0.21686038374900818
+=> USA 0.17460688948631287
+=> USA 0.167108416557312
+=> KEN 0.2689129710197449
+=> KEN 0.2689129710197449
+=> USA 0.21686038374900818
+=> KEN 0.8758856058120728 (Tana -> Tana River)
+=> KEN 0.2689129710197449
+=> RUS 0.167108416557312
+=> ROU 0.2869168519973755
+=> KEN 0.8758856058120728 (Meru -> Meru)
+=> KEN 0.9068928956985474 (Kwale -> Kwale)
+=> KEN 0.9470949172973633 (Lamu -> Lamu)
+=> KEN 0.9146865606307983 (Marsabit -> Marsabit)
+=> KEN 0.2689129710197449
+=> KEN 0.9470949172973633 (Mombasa -> Mombasa)
+=> KEN 0.8758856058120728 (Samburu -> Samburu)
+=> KEN 0.2689129710197449
+=> COD 0.8825335502624512 (Botula -> Botula)
+=> ETH 0.21674278378486633
+=> KEN 0.9146865606307983 (Turkana -> Turkana)
+=> BRA 0.8047827482223511 (Highlands -> Brazilian Highlands)
+=> JOR 0.21686038374900818
+=> KEN 0.2689129710197449
+=> KEN 0.9470949172973633 (Kenya -> Republic of Kenya)
+
+12: "Ugandan hospital, Somali town washed away by East Africa floods - Reuters"
+=> MOZ 0.7826855182647705 (East Africa -> Republic of Mozambique)
+
+12: "NAIROBI/KAMPALA (Reuters) - Flooding washed away roads, bridges and a hospital in Uganda and an entire small town in Somalia as torrential rain across East Africa compounded problems for governments struggling to respond to the new coronavirus.
+
+Hundreds of people have been killed by floodwaters in Kenya, Uganda, Somalia, Rwanda and Ethiopia which have also displaced hundreds of thousands across the region.
+
+Heavy overnight rains flooded areas around Mountain Rwenzori in Western Uganda after the River Nyamwamba burst its banks, forcing people to seek refuge in nearby schools and destroying roads and bridges, a senior government official said.
+
+“What complicates the matter is that this is the era of COVID. People are expected to maintain social distance but how do you maintain distance in such a situation?” Julius Mucunguzi, spokesman for the prime minister’s office, said by telephone.
+
+One of the hospitals in the area, Kilembe, was also overrun by the gushing waters despite being built on a raised bank and reinforced with sandbags.
+
+“There are wards which were completely washed away. The mortuary was swept away. You wouldn’t know that once upon a time there was a mortuary there. The drugs and drug stores were washed away,” Mucunguzi said.
+
+In Ethiopia, the Somali region in the east of the country has borne the brunt of the floods, which have displaced more than 100,000 people, the United Nations Office for the Co-ordination of Humanitarian Affairs said.
+
+In neighbouring Somalia, an unspecified number of people were killed when floods washed away an entire small town in the semi-autonomous Puntland region, officials said.
+
+The heavy rains stem from moisture dumped in the region by winds coming in from the Indian Ocean where temperatures have risen in recent months, Chris Shisanya, a professor of climatology at Nairobi-based Kenyatta University, said.
+
+“This is a carry-over of what we had last year,” he said, referring to floods and landslides in the region.
+
+Nearly 200 people in Kenya have been killed by the floods, which have also displaced 100,000 more.
+
+“This is compounding the COVID-19 response,” Kenya Health Ministry Chief Administrative Secretary Rashid Aman told a news conference.
+
+“The displaced people have been forced to congregate in makeshift camps with the risk of banding together exposing them to the possibility of contracting the virus.”
+
+Official recorded deaths from COVID-19 are at least 102 across East Africa, where the virus arrived later than many other parts of the world."
+=> KEN 0.9233411550521851 (NAIROBI -> Nairobi)
+=> UGA 0.9405229091644287 (KAMPALA -> Kampala)
+=> UGA 0.9361736178398132 (Uganda -> Republic of Uganda)
+=> SOM 0.947913408279419 (Somalia -> Somalia)
+=> MOZ 0.7805695533752441 (East Africa -> Republic of Mozambique)
+=> KEN 0.9233411550521851 (Kenya -> Republic of Kenya)
+=> UGA 0.9361736178398132 (Uganda -> Republic of Uganda)
+=> SOM 0.947913408279419 (Somalia -> Somalia)
+=> RWA 0.9233411550521851 (Rwanda -> Republic of Rwanda)
+=> ETH 0.9233411550521851 (Ethiopia -> Federal Democratic Republic of Ethiopia)
+=> UGA 0.7946699857711792 (Mountain Rwenzori -> Mountain Rwenzori)
+=> UGA 0.29389089345932007
+=> SOM 0.21070340275764465
+=> ETH 0.9233411550521851 (Ethiopia -> Federal Democratic Republic of Ethiopia)
+=> SOM 0.947913408279419 (Somalia -> Somalia)
+=> SOM 0.947913408279419 (Puntland -> Puntland)
+=> IND 0.24252116680145264
+=> KEN 0.9233411550521851 (Nairobi -> Nairobi)
+=> KEN 0.9233411550521851 (Kenya -> Republic of Kenya)
+=> MOZ 0.7805695533752441 (East Africa -> Republic of Mozambique)
+
+13: "Heavy rains wreak havoc in Napak district - Independent"
+=> UGA 0.9528108835220337 (Napak -> Napak District)
+
+13: "Napak, Uganda | THE INDEPENDENT | Several houses were left flooded and many plants swept away by running water after a heavy downpour that lasted for seven hours on Wednesday morning.
+
+The most affected sub-counties include; Lotome, Ngoleriet, Kangole town council and Matany with many families affected as well. The floods covered the newly constructed road of Moroto, Soroti near Presidential state lodge in Moruling.
+
+Betty Nangiro, one of the affected residents of Kangole town council told Uganda Radio Network (URN) that her houses are full of water and all her food has been soaked in water. “I don’t know where to start from, because right now I don’t have anything to give to the children for supper because all the food has been soaked in water,” said Nangiro.
+
+Another resident Joseph Lokol told URN that floods have swept away eight of his birds and two pigs that he received from the Operation and Wealth Creation programme. “I don’t know where the floods have taken my eight birds and two pigs. I had a lot of hope to see the pigs change my situation in the long run,” he said.
+
+Simon Kotol, the vice-chairman LC1 of Kangole chini told URN that many birds have been washed away by running water. He said the floods would worsen already starving families who have been facing a big challenge to afford food. “We have been receiving rains but this is too much and abnormal am sure many families are going to be affected,” he said.
+
+Jimmy Tebanyang, the LCV councillor for Ngoleriet sub-county in Napak district appealed to development partners and the office of the prime minister to come and support the flood victims. He said although the people of Napak have been eager to have rain, the current rains are too much that they are washing away plantations.
+
+*******
+
+URN"
+=> UGA 0.9516947865486145 (Uganda -> Republic of Uganda)
+=> UGA 0.5738115906715393
+=> UGA 0.9395217895507812 (Soroti -> Soroti)
+=> UGA 0.9395217895507812 (Moruling -> Morulinga)
+=> UGA 0.9395217895507812 (Napak -> Napak District)
+
+14: "Vietnam floods and landslides displace 90,000 people as new cyclone nears - The Guardian"
+=> VNM 0.9516947865486145 (Vietnam -> Socialist Republic of Vietnam)
+
+14: "Floods and landslides in Vietnam are reported to have left at least 102 people dead or missing, while tens of thousands of people have lost their homes to rising water.
+
+Two storms that hit central Vietnam in the first two weeks of October, Storm Linfa and Storm Nangka, brought six times higher than average rainfall, flooding 136,000 houses and forcing 90,000 people to evacuate their homes. A third cyclone is expected to hit the coast in the coming days.
+
+Worst hit is Hue province, some 700km (434 miles) away from the capital, Hanoi. Police and soldiers have been using canoes and boats in Ha Tinh city to reach the most flooded areas to evacuate people and move property to safety. In this city alone, more than 20,700 people were reported to have been evacuated.
+
+In Quang Binh province, 130km away, flood water continues to rise, swallowing up entire houses or burying them beneath landslides. On Sunday 13 households , about 60 people in total, were relocated, as an estimated 3,000 tonnes of rock and soil came crashing down on homes and roads.
+
+Landslides buried a military barracks at Quang Tr? in the early hours of Sunday, killing 22 soldiers and officers.
+
+Blue Dragon, a non-governmental organisation that helps at-risk families around Vietnam, is one of a handful of non-profits working in Hue, with help and donations slowly trickling in.
+
+Founder Michael Brosowski said: Hue experiences floods each year, but the scale and the speed this year is shocking. Local residents now live in a way that is prepared for a natural disaster, but this is on a much larger scale. Theyll have to start all over again."
+=> VNM 0.9467071890830994 (Vietnam -> Socialist Republic of Vietnam)
+=> VNM 0.9467071890830994 (Vietnam -> Socialist Republic of Vietnam)
+=> VNM 0.9596210718154907 (Hanoi -> Hanoi)
+=> VNM 0.9467071890830994 (Quang Binh -> Tỉnh Quảng Bình)
+=> VNM 0.2381683886051178
+=> VNM 0.9467071890830994 (Vietnam -> Socialist Republic of Vietnam)
+=> VNM 0.9032421708106995 (Hue -> Tỉnh Thừa Thiên-Huế)
+
+15: "Worst drought in 63 years hits Liaoning province in northeast China - South China Morning Post"
+=> CHN 0.8952957391738892 (Liaoning -> Liaoning Sheng)
+=> CHN 0.6875818967819214 (China -> China University of Geosciences)
+
+15: "Liaoning averaged 90mm across the province in July, compared with 165mm usually, and August looks to be just as dry"
+=> CHN 0.9048774242401123 (Liaoning -> Liaoning Sheng)
+
+16: "More than 500,000 at risk in drought-hit Namibia - BBC News"
+=> NAM 0.9516947865486145 (Namibia -> Republic of Namibia)
+
+16: ""We... call on all Namibians and development partners to assist in any way possible, so that we provide to our people who are affected, as well as the livestock," she said in the national assembly."
+=> No geolocation found.
+
+17: "Storm Vamco hits Vietnam as Philippines rescues survivors - BBC News"
+=> VNM 0.954474687576294 (Vietnam -> Socialist Republic of Vietnam)
+=> PHL 0.9531790018081665 (Philippines -> Republic of the Philippines)
+
+17: "The death toll has risen to at least 67 and dozens remain missing after Vamco hit on Wednesday, just one week after Goni, the most powerful typhoon seen in the country in seven years."
+=> No geolocation found.
+
+18: "Protecting Afghanistan’s environment and tourist future - BBC News"
+=> AFG 0.9516947865486145 (Afghanistan -> Islamic Republic of Afghanistan)
+
+18: "There is little control on villagers who live next to the lakes. They have often used grenades and other explosives for fishing. Rubbish sometimes gets dumped in the waters."
+=> No geolocation found.
+
+19: "Wine fraud: How easy is it to fake a 50-year-old bottle? - BBC News"
+=> No geolocation found.
+
+19: "Mr Kurniawan's case has sent shockwaves through the small world of vintage wine collectors, auction houses, and vineyards. Some say it will take years to figure out just how many of his fake bottles are still in the market."
+=> No geolocation found.
